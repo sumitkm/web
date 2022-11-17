@@ -1,0 +1,23 @@
+extends layout
+
+block content
+    div.post
+        h1
+            a(href=post.url)
+                = post.title
+
+        p
+            span.date.h4 #{post.date.getFullYear()}-#{post.date.getMonth()+1}-#{post.date.getDate()}
+
+        .row
+            .col-xs-12
+                p
+                    span By #{post.author}
+
+        div.post.content
+            != post.content
+    if post.tags 
+        div.tags
+            each tag in post.tags
+                a(href=tagUrl(tag) style="margin-right: 5px")
+                    span.label.label-info #{tag}

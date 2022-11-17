@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Custom
+certs/
+/temp/
+connect
+webconfig.json
+.DS_Store
+/dev/server/**/*.js
+main.js 
