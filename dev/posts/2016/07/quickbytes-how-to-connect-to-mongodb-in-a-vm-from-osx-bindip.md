@@ -8,8 +8,6 @@ categories:
   - "osx"
 ---
 
-\[gallery size=full columns=1\]
-
 I like to keep my base system clean of databases and web-servers etc. So when I wanted to play around with MongoDB on my laptop instead of cluttering it up, I setup a little Virtual Box VM running Debian 8.5 and got MongoDB 3.2 on it in a jiffy using the official docs.
 
 I then installed my favourite MongoDB client Robomongo and was all set to connect to the DB in the VM itself.

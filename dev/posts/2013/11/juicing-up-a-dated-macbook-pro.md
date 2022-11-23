@@ -18,7 +18,7 @@ This week I gave it another upgrade, added an SSD in the CD Drive slot. The comp
 - [JUSTOP Omnibay 2nd Hard Disk Drive Caddy SATA to SATA for Unibody Apple Macbook, Macbook Pro 13 15 17 , Replace Optical Drive](http://www.amazon.co.uk/gp/product/B008F89KKA/ref=oh_details_o00_s00_i02?ie=UTF8&psc=1)
 - [LINDY Computer Technician Precision Screwdriver Set](http://www.amazon.co.uk/gp/product/B0000934GN/ref=oh_details_o00_s00_i01?ie=UTF8&psc=1) (Left my toolkit in India so it’s start from scratch here ![Sad smile](images/wlemoticon-sadsmile.png))
 
-[![IMG_4133](images/img_4133_thumb.jpg "IMG_4133")](http://sumitmaitra.files.wordpress.com/2013/11/img_4133.jpg)
+[![IMG_4133](images/images/img_4133_thumb.jpg "IMG_4133")](/images/blog/2013/11/images/img_4133.jpg)
 
 I had initially zeroed in on the Samsung EVO 250 Gigs drive, but ultimately settled for the Kingston which I’ve (a good) experience with.
 
@@ -28,35 +28,35 @@ I had initially zeroed in on the Samsung EVO 250 Gigs drive, but ultimately sett
 
 **Step 2**: Before we remove the Optical drive we have to unhook two flat cables. First one connects the optical drive to the MoBo and the second one connects the HDD to the MoBo. Use a plastic spludger or your nails to gently lift them up as shown below.
 
-[![IMG_4134](images/img_4134_thumb.jpg "IMG_4134")](http://sumitmaitra.files.wordpress.com/2013/11/img_4134.jpg)
+[![IMG_4134](images/images/img_4134_thumb.jpg "IMG_4134")](/images/blog/2013/11/images/img_4134.jpg)
 
 **Step 3**: There are three screws that hold it in place, and there is a connector cable to the motherboard that we have to remove. The first screw is under the cable towards the center of the system. You have to push the cable up, to reveal the screw.
 
-[![IMG_4135](images/img_4135_thumb.jpg "IMG_4135")](http://sumitmaitra.files.wordpress.com/2013/11/img_4135.jpg)
+[![IMG_4135](images/images/img_4135_thumb.jpg "IMG_4135")](/images/blog/2013/11/images/img_4135.jpg)
 
 **Step 4**: The next screw is on the Top Left corner of the system and easily accessible
 
-[![IMG_4136](images/img_4136_thumb.jpg "IMG_4136")](http://sumitmaitra.files.wordpress.com/2013/11/img_4136.jpg)
+[![IMG_4136](images/images/img_4136_thumb.jpg "IMG_4136")](/images/blog/2013/11/images/img_4136.jpg)
 
 **Step 5**: The Final screw is near the middle on the Left hand edge, again easily accessible
 
-[![IMG_4137](images/img_4137_thumb.jpg "IMG_4137")](http://sumitmaitra.files.wordpress.com/2013/11/img_4137.jpg)
+[![IMG_4137](images/images/img_4137_thumb.jpg "IMG_4137")](/images/blog/2013/11/images/img_4137.jpg)
 
 **Step 6**: Next lift up the Optical drive from the bottom left corner gently. It will come up only about a centimeter then pull it towards yourself. If you encounter resistance bend the battery sticker and the straighten the HDD flat cable, they are stiffer than they look.
 
-[![IMG_4138](images/img_4138_thumb.jpg "IMG_4138")](http://sumitmaitra.files.wordpress.com/2013/11/img_4138.jpg)
+[![IMG_4138](images/images/img_4138_thumb.jpg "IMG_4138")](/images/blog/2013/11/images/img_4138.jpg)
 
 **Step 7**: Once you have extracted the Optical Drive there is a hook attachment that you need to unscrew and screw it back to the HDD caddy.
 
-[![IMG_4139](images/img_4139_thumb.jpg "IMG_4139")](http://sumitmaitra.files.wordpress.com/2013/11/img_4139.jpg)
+[![IMG_4139](images/images/img_4139_thumb.jpg "IMG_4139")](/images/blog/2013/11/images/img_4139.jpg)
 
 **Step 8**: The flat cable that we removed from the Motherboard earlier goes into the Optical drive via another adapter. Gently pull it out as well, after you have put in your new HDD into the HDD caddy, you can put this adapter back into the HDD Caddy.
 
-[![IMG_4140](images/img_4140_thumb.jpg "IMG_4140")](http://sumitmaitra.files.wordpress.com/2013/11/img_4140.jpg)
+[![IMG_4140](images/images/img_4140_thumb.jpg "IMG_4140")](/images/blog/2013/11/images/img_4140.jpg)
 
 Step 9: Once you have snapped the HDD into the caddy, flip the caddy over and put in two screws (the Caddy came with a bunch of screws, pick the right size)
 
-[![IMG_4141](images/img_4141_thumb.jpg "IMG_4141")](http://sumitmaitra.files.wordpress.com/2013/11/img_4141.jpg)
+[![IMG_4141](images/images/img_4141_thumb.jpg "IMG_4141")](/images/blog/2013/11/images/img_4141.jpg)
 
 **Step 10:** Here on it’s the inverse process of Step 6 and go back carefully, till your MacBook is bolted up.
 

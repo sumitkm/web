@@ -2,12 +2,8 @@
 title: "Getting rid of SQL SERVER Transaction Logs in Dev Environment"
 date: "2010-02-10"
 tags: 
-  - "shrink"
-  - "shrink-transaction-logs"
   - "sql-server"
-  - "sql-server-transaction-logs"
   - "transaction-logs"
-  - "truncate-transaction-logs"
 ---
 
 Please note this article is ‘strictly’ applicable to Development (non-production) Environments.
@@ -31,24 +27,25 @@ Here go the steps:
     2. In “Properties” pane, select “Options” on the left hand pane.
     3. Set “Recovery model” to Simple. Among other things it ensures Transaction Logs are not backed up (hence NOT advisable for production environments generally).
 
-\[caption id="attachment\_108" align="alignnone" width="502" caption="How to Change Recovery Model in SQL Server"\][![How to Change Recovery Model in SQL Server](images/changerecoverymodel.jpg "How to Change Recovery Model in SQL Server")](http://sumitmaitra.files.wordpress.com/2010/02/changerecoverymodel.jpg)\[/caption\]
+[![How to Change Recovery Model in SQL Server](/images/blog/2010/02/images/changerecoverymodel.jpg "How to Change Recovery Model in SQL Server")](/images/blog/2010/02/images/changerecoverymodel.jpg)
 
 1. Now take a backup of the database
     1. Use the Full Backup
     2. Delete the database
     3. Restore the database from the backup in step 2
-    4. Shrink the database using the following snippet. Replace WSS\_CONTENT\_APPS\_4000 with your DB name and change the Log file name appropriately.
+    4. Shrink the database using the following snippet. Replace WSS_CONTENT_APPS_4000 with your DB name and change the Log file name appropriately.
 
-USE \[WSS\_CONTENT\_APPS\_4000\]
-
-GO
-
-DBCC SHRINKFILE (N'WSS\_Content\_Apps\_4000\_log' , 0, TRUNCATEONLY)
+```sql
+USE [WSS_CONTENT_APPS_4000]
 
 GO
 
+DBCC SHRINKFILE (N'WSS_Content_Apps_4000_log' , 0, TRUNCATEONLY)
+
+GO
+```
 1. Go to the Messages page in Management Studio. It should not have any error messages. It should show something similar
-
+```sql
 (1 row(s) affected)
-
+```
 DBCC execution completed. If DBCC printed error messages, contact your system administrator.

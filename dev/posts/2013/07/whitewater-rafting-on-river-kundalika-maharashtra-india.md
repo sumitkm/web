@@ -13,19 +13,19 @@ tags:
 
 I am not the typical adventure sports guy, but thanks to my better half, we have our fair share of outdoor adventures. Our last outing was a year ago when we went trekking 16 kms from Lonavala to [Rajmachi](http://en.wikipedia.org/wiki/Rajmachi "Rajmachi on Wikipedia") a remote village tucked away in the Sahyadris. That was an embarrassing tale of unfit legs on my part. I never came around to finishing that post and a year has since passed.
 
-This time, thankfully Praji decided to do something that had less than 16kms of trekking. So Rafting it was. We booked our trip through the same adventure sports group [Trek’Di](http://www.trekdi.com/).
+This time, thankfully Praji decided to do something that had less than 16kms of trekking. So Rafting it was. We booked our trip through the same adventure sports group [Trek’Di](http://trekdi.com/).
 
 # The Journey
 
 Journey from Pune to Kolad via bus/taxi is extremely picturesque in the Monsoons. Road condition gets worse as Monsoon progresses. For us it was patches of bad roads, in the ~93 kms drive from Fergusson College’s main gate (our designated starting point) to the village Rawalje.
 
-[![image](images/image_thumb6.png "image")](http://sumitmaitra.files.wordpress.com/2013/07/image6.png)
+[![image](/images/blog/2013/07/images/image_thumb6.png "image")](/images/blog/2013/07/images/image6.png)
 
 (From: Fergusson College, Shivaji Nagar, Pune, Maharashtra, India To: Kundalika River Rafting Start Point, Raigad, Maharashtra, India) Map Courtesy – Google Maps.
 
 Our journey was uneventful except for the sighting of this strange ‘bird’, locally known as Shahamurg (it belongs to Ostrich family I guess).
 
-[![image](images/image_thumb7.png "image")](http://sumitmaitra.files.wordpress.com/2013/07/image7.png)
+[![image](/images/blog/2013/07/images/image_thumb7.png "image")](/images/blog/2013/07/images/image7.png)
 
 It’s a big bridie, the gentleman (who was driving our car) in the picture is about 5’5” tall, so the bird is about 4 feet upto its back. Assuming it can crane it’s neck up add another feet or so to it. It small by Ostrich standards but anyways. On our way back we saw another one meandering by the roadside, probably slightly bigger.
 
@@ -39,9 +39,9 @@ The River Kundalika is a tiny river that has multiple irrigation/hydro electric 
 
 The water release happens at about 10 am so rafting has to start around that time. We reached exactly at 10 and found loads of eager adventurers.
 
-[![WP_001243](images/wp_001243_thumb.jpg "WP_001243")](http://sumitmaitra.files.wordpress.com/2013/07/wp_001243.jpg)
+[![WP_001243](/images/blog/2013/07/images/wp_001243_thumb.jpg "WP_001243")](/images/blog/2013/07/images/wp_001243.jpg)
 
-We get a quick round of instructions from one of the organizing group members telling us how to use the gear. Then we get our life jacket, helmet and oars and are assigned a Team lead – the guy who knows what’s going on ![Smile](images/wlemoticon-smile.png). Including team lead we were 10 of us on the Raft.
+We get a quick round of instructions from one of the organizing group members telling us how to use the gear. Then we get our life jacket, helmet and oars and are assigned a Team lead – the guy who knows what’s going on ![Smile](/images/blog/2013/07/images/wlemoticon-smile.png). Including team lead we were 10 of us on the Raft.
 
 We get to our raft on the shore and our team lead familiarizes us with the basic commands he’s going to issue:
 
@@ -50,7 +50,7 @@ We get to our raft on the shore and our team lead familiarizes us with the basic
 > **Left/Right Backward:** Team on left OR right paddle backward  
 > **All Backwards:** Everyone paddle backwards  
 > **Stop:** Stop rowing, keep oar securely  
-> **Down:** Duck on the inside and hold on to the safety rope for your lives ![Winking smile](images/wlemoticon-winkingsmile1.png)
+> **Down:** Duck on the inside and hold on to the safety rope for your lives ![Winking smile](/images/blog/2013/07/images/wlemoticon-winkingsmile1.png)
 
 After a round of shadow rowing practice, we haul up the raft and head for the river. We are off in less than a minute and soon loose track of time, with our ears keen and perked for instructions from Team Leader who is at the back of the boat.
 
@@ -64,7 +64,7 @@ Things are spiced up along the way with a heavy downpour as well. Don’t attemp
 
 Near the 3/4th mark river has quieted down and team lead suggests everyone jump off the boat and splash around! Knowing very well that we can’t swim, he seems to be calmly confident that nothing’s gonna go wrong. With faith in his calmness and my life jacket I jump in… Glup… gulp… after a few anxious moments I finally manage to get head up, feet down and I am walking in water. Having never been in water deep enough for my feet not touching the ground, this is a new experience. But the lifejacket makes it really easy. Hooking my hands in front of the jacket and pushing it down kind of guarantees I am in a vertical position, head up. Soon we are floating in the river’s current and have put some distance between ourselves and the raft. Time passes by idly and after what seems not enough idling, Team lead orders us in the boat.
 
-We decide to spice things up by challenging one of our fellow rafts to a friendly race that we promptly loose because we get bumped by another raft and end up doing a 360 ![Smile](images/wlemoticon-smile.png). All in fun and games. But unfortunately fun time is soon over and lazily and reluctantly we head for our ‘station’.
+We decide to spice things up by challenging one of our fellow rafts to a friendly race that we promptly loose because we get bumped by another raft and end up doing a 360 ![Smile](/images/blog/2013/07/images/wlemoticon-smile.png). All in fun and games. But unfortunately fun time is soon over and lazily and reluctantly we head for our ‘station’.
 
 We get off, drag the raft on-shore and after a few photo-ops haul the raft up the river bank ready to be transported back.
 
@@ -72,7 +72,7 @@ We get off, drag the raft on-shore and after a few photo-ops haul the raft up th
 
 Here are some random pictures taken through my Samsung Focus Windows Phone. It was duly water-proofed by a ‘hi-tech’ Tesco zip-lock and it amazingly remained dry all throughout the journey even though I was completely soaked. I didn’t jump into the river with it, it was left at the bottom of the raft while I was floating around.
 
-[![WP_001250](images/wp_001250_thumb.jpg "WP_001250")](http://sumitmaitra.files.wordpress.com/2013/07/wp_001250.jpg)[![WP_001247](images/wp_001247_thumb.jpg "WP_001247")](http://sumitmaitra.files.wordpress.com/2013/07/wp_001247.jpg)[![WP_001263](images/wp_001263_thumb.jpg "WP_001263")](http://sumitmaitra.files.wordpress.com/2013/07/wp_001263.jpg)[![WP_001260](images/wp_001260_thumb.jpg "WP_001260")](http://sumitmaitra.files.wordpress.com/2013/07/wp_001260.jpg)[![WP_001266](images/wp_001266_thumb.jpg "WP_001266")](http://sumitmaitra.files.wordpress.com/2013/07/wp_001266.jpg)[![WP_001267](images/wp_001267_thumb.jpg "WP_001267")](http://sumitmaitra.files.wordpress.com/2013/07/wp_001267.jpg)
+[![WP_001250](/images/blog/2013/07/images/wp_001250_thumb.jpg "WP_001250")](/images/blog/2013/07/images/wp_001250.jpg)[![WP_001247](/images/blog/2013/07/images/wp_001247_thumb.jpg "WP_001247")](/images/blog/2013/07/images/wp_001247.jpg)[![WP_001263](/images/blog/2013/07/images/wp_001263_thumb.jpg "WP_001263")](/images/blog/2013/07/images/wp_001263.jpg)[![WP_001260](/images/blog/2013/07/images/wp_001260_thumb.jpg "WP_001260")](/images/blog/2013/07/images/wp_001260.jpg)[![WP_001266](/images/blog/2013/07/images/wp_001266_thumb.jpg "WP_001266")](/images/blog/2013/07/images/wp_001266.jpg)[![WP_001267](/images/blog/2013/07/images/wp_001267_thumb.jpg "WP_001267")](/images/blog/2013/07/images/wp_001267.jpg)
 
 # Change, Lunch and Drive back
 
@@ -84,31 +84,31 @@ The return journey is all about soaking in the beauty of the Western Ghats. I’
 
 - One of the many many waterfalls
 
-[![WP_001269](images/wp_001269_thumb.jpg "WP_001269")](http://sumitmaitra.files.wordpress.com/2013/07/wp_001269.jpg)[![WP_001270](images/wp_001270_thumb.jpg "WP_001270")](http://sumitmaitra.files.wordpress.com/2013/07/wp_001270.jpg)
+[![WP_001269](/images/blog/2013/07/images/wp_001269_thumb.jpg "WP_001269")](/images/blog/2013/07/images/wp_001269.jpg)[![WP_001270](/images/blog/2013/07/images/wp_001270_thumb.jpg "WP_001270")](/images/blog/2013/07/images/wp_001270.jpg)
 
 - That’s us in front of the waterfall
 
-[![WP_001272](images/wp_001272_thumb.jpg "WP_001272")](http://sumitmaitra.files.wordpress.com/2013/07/wp_001272.jpg)
+[![WP_001272](/images/blog/2013/07/images/wp_001272_thumb.jpg "WP_001272")](/images/blog/2013/07/images/wp_001272.jpg)
 
 - At Plus Valley – A junction of two valleys known as the plus valley presents a breathtaking view.
 
-[![WP_001284](images/wp_001284_thumb.jpg "WP_001284")](http://sumitmaitra.files.wordpress.com/2013/07/wp_001284.jpg)
+[![WP_001284](/images/blog/2013/07/images/wp_001284_thumb.jpg "WP_001284")](/images/blog/2013/07/images/wp_001284.jpg)
 
 - Note how the waterfalls have golden glow. Behind the clouds the sun is shining on the waterfall
 
-[![WP_001287](images/wp_001287_thumb.jpg "WP_001287")](http://sumitmaitra.files.wordpress.com/2013/07/wp_001287.jpg)
+[![WP_001287](/images/blog/2013/07/images/wp_001287_thumb.jpg "WP_001287")](/images/blog/2013/07/images/wp_001287.jpg)
 
 - More waterfalls along the route, with clouds kissing the hilltops
 
-[![WP_001295](images/wp_001295_thumb.jpg "WP_001295")](http://sumitmaitra.files.wordpress.com/2013/07/wp_001295.jpg)
+[![WP_001295](/images/blog/2013/07/images/wp_001295_thumb.jpg "WP_001295")](/images/blog/2013/07/images/wp_001295.jpg)
 
 - Dark and beautiful
 
-[![WP_001298](images/wp_001298_thumb.jpg "WP_001298")](http://sumitmaitra.files.wordpress.com/2013/07/wp_001298.jpg)
+[![WP_001298](/images/blog/2013/07/images/wp_001298_thumb.jpg "WP_001298")](/images/blog/2013/07/images/wp_001298.jpg)
 
 - Quick stop to grab coal-baked corn delicacy (Bhutta)
 
-[![WP_001300](images/wp_001300_thumb.jpg "WP_001300")](http://sumitmaitra.files.wordpress.com/2013/07/wp_001300.jpg)
+[![WP_001300](/images/blog/2013/07/images/wp_001300_thumb.jpg "WP_001300")](/images/blog/2013/07/images/wp_001300.jpg)
 
 After more un-captured but fully absorbed sights we reach Pune city (around 7pm). We disperse at the same location where we had met with fond memories of a nice little adventure trip.
 

@@ -19,5 +19,5 @@ block content
     if post.tags 
         div.tags
             each tag in post.tags
-                a(href=tagUrl(tag) style="margin-right: 5px")
+                a(href=tagUrl(tag) style="margin-right: 5px" class="badge bg-secondary")
                     span.label.label-info #{tag}

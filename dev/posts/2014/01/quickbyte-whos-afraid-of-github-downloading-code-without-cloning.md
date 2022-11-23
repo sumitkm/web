@@ -12,7 +12,7 @@ I often get mails requesting for code in zip files, even though almost all my co
 
 However this is not the case. The nice folks at Github already thought of this and provide a very handy ‘**Download ZIP**’ button. You don’t have to login or create a Github account to download the zip of an OSS project (which is to say if you can access the project you can download the zip).
 
-[![image](images/image_thumb1.png "image")](http://sumitmaitra.files.wordpress.com/2014/01/image1.png)
+[![image](images/image_thumb1.png "image")](/images/blog/2014/01/images/blog/image1.png)
 
 As you can in the screenshot above, I am not logged in, and yet I can download the zip file of the code of one of my articles.
 

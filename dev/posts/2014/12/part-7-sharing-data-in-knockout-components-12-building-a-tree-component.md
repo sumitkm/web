@@ -56,7 +56,7 @@ To navigate to the 'Docs' page we add a link in \_Layout.cshtml page. as seen be
 
 \[sourcecode language="html" firstline="18" highlight="25,26,27"\] <ul class="nav navbar-nav"> <li> <a href="/">Home</a> </li> <li> <a href="settings">Settings</a> </li> <li> <a href="docs">Docs</a> </li> </ul> \[/sourcecode\]
 
-[![image](images/image_thumb.png "image")](http://sumitmaitra.files.wordpress.com/2014/12/image.png)
+[![image](images/image_thumb.png "image")](/images/blog/2014/12/images/blog/image.png)
 
 Finally we add the docs route to our router in router.js as follows
 
@@ -138,7 +138,7 @@ Now that we are setup with the new components lets run the app and see how it wo
 
 Navigating to the docs page shows us the following:
 
-[![image](images/image_thumb.png "image")](http://sumitmaitra.files.wordpress.com/2015/01/image.png)
+[![image](images/image_thumb.png "image")](/images/blog/2015/01/images/blog/image.png)
 
 Notice 'Node 0-1' and 'Node 1' are not expanded by default but 'Node 0' is. This is because these nodes have the **expanded** property explicitly set to false. By default expanded is assumed **true.**
 

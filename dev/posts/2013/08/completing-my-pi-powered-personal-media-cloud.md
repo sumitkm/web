@@ -19,33 +19,33 @@ Turned out to be really easy thanks to MiniDLNA. [This article](http://raspberry
 
 I already had Samba installed so I skipped that step and just installed MiniDLNA. Also I didn’t need it over the web, so I didn’t need Transmission or the Torrent Client, most of my media are training videos that I download from their respective sites. I setup MiniDLNA only and used nano as my editor (yeah, still no good with VI)
 
-[![image](images/image_thumb1.png "image")](http://sumitmaitra.files.wordpress.com/2013/08/image1.png)
+[![image](images/image_thumb1.png "image")](/images/blog/2013/08/images/blog/image1.png)
 
 > sudo apt-get install minidlna
 
-[![image](images/image_thumb2.png "image")](http://sumitmaitra.files.wordpress.com/2013/08/image2.png)
+[![image](images/image_thumb2.png "image")](/images/blog/2013/08/images/blog/image2.png)
 
 > sudo nano /etc/minidlna.conf
 
 While updating the minidlna.conf file you have the option of specifying Video/Music/Pictures folders. I already had my media split up in those categories so I used those configurations.
 
-[![image](images/image_thumb3.png "image")](http://sumitmaitra.files.wordpress.com/2013/08/image3.png)
+[![image](images/image_thumb3.png "image")](/images/blog/2013/08/images/blog/image3.png)
 
 Give it a friendly name to identify over the network
 
-[![image](images/image_thumb4.png "image")](http://sumitmaitra.files.wordpress.com/2013/08/image4.png)
+[![image](images/image_thumb4.png "image")](/images/blog/2013/08/images/blog/image4.png)
 
 > friendly\_name=MediaPi
 
 Hit Ctrl+X and say Yes when asked if you want to save the changes. This will get you out of Nano. Now restart the service
 
-[![image](images/image_thumb5.png "image")](http://sumitmaitra.files.wordpress.com/2013/08/image5.png)
+[![image](images/image_thumb5.png "image")](/images/blog/2013/08/images/blog/image5.png)
 
 > sudo service minidlna restart
 
 Force it to rescan for a good measure (though if you are patient enough this might not be necessary
 
-[![image](images/image_thumb6.png "image")](http://sumitmaitra.files.wordpress.com/2013/08/image6.png)
+[![image](images/image_thumb6.png "image")](/images/blog/2013/08/images/blog/image6.png)
 
 > sudo service minidlna force-reload
 
@@ -59,21 +59,21 @@ After MiniDLNA is done scanning the folders are you good to go.
 
 If you have connected to a ‘Private’ network, Windows will automatically look for Media servers and you should see the Name you gave above (MediaPi) in my case:
 
-[![image](images/image_thumb7.png "image")](http://sumitmaitra.files.wordpress.com/2013/08/image7.png)
+[![image](images/image_thumb7.png "image")](/images/blog/2013/08/images/blog/image7.png)
 
 You can select it and open it in Windows Media Player, or directly open Windows Media Player and start playing from it directly
 
-[![image](images/image_thumb8.png "image")](http://sumitmaitra.files.wordpress.com/2013/08/image8.png)
+[![image](images/image_thumb8.png "image")](/images/blog/2013/08/images/blog/image8.png)
 
 ## From XBox
 
 Just start your ‘System Video Player’ App (NOT XBox Video).
 
-[![image](images/image_thumb9.png "image")](http://sumitmaitra.files.wordpress.com/2013/08/image9.png)
+[![image](images/image_thumb9.png "image")](/images/blog/2013/08/images/blog/image9.png)
 
 The Friendly Name should popup automatically assuming you are on the same network
 
-[![image](images/image_thumb10.png "image")](http://sumitmaitra.files.wordpress.com/2013/08/image10.png)
+[![image](images/image_thumb10.png "image")](/images/blog/2013/08/images/blog/image10.png)
 
 # From iOS
 

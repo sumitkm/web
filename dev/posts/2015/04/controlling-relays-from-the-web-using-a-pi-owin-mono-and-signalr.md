@@ -202,7 +202,7 @@ pi@raspberry ~/projects/IoTLightbulb/IoTWeb/bin/Debug $ sudo mono IoTWeb.exe
 
 Next launch browser and go to localhost:5000/SignalR/hubs you should see the generated Hub proxy. To ensure it's correctly generated, scroll down till you can see your Hub's name (IoTHub) and the three functions you created in your hub (handshake, switchOff and switchOn
 
-[![image](images/image_thumb.png "image")](http://sumitmaitra.files.wordpress.com/2015/04/image.png)
+[![image](images/image_thumb.png "image")](/images/blog/2015/04/images/blog/image.png)
 
 Great, we have a SignalR hub that can issue commands. Now we need two things, a UI to issue the commands and a client connected to this hub to receive those commands. Let set these up.
 
@@ -214,11 +214,11 @@ In real life we would build a nice ASP.NET MVC around the SignalR app, but today
 
 2\. Add a folder called Web in your project and move the Scripts folder package under Web. It should look something like this
 
-[![image](images/image_thumb1.png "image")](http://sumitmaitra.files.wordpress.com/2015/04/image1.png)
+[![image](images/image_thumb1.png "image")](/images/blog/2015/04/images/blog/image1.png)
 
 3\. Now right click on the min.js files one at a time, go to quick properties and check the 'Copy to Output Directory'
 
-[![image](images/image_thumb2.png "image")](http://sumitmaitra.files.wordpress.com/2015/04/image2.png)
+[![image](images/image_thumb2.png "image")](/images/blog/2015/04/images/blog/image2.png)
 
 Do the same for Index.html. This will ensure the Web folder is create under wherever the exe file is generated and contain the HTML and required JavaScript files.
 
@@ -289,7 +289,7 @@ public void Configuration(IAppBuilder app)
 
 All set with the Web page then. Run it again and navigate to http://localhost:5000/Web/Index.html . You should see something similar:
 
-[![image](images/image_thumb3.png "image")](http://sumitmaitra.files.wordpress.com/2015/04/image3.png)
+[![image](images/image_thumb3.png "image")](/images/blog/2015/04/images/blog/image3.png)
 
 Cool. Now lets build the client that will communicate with this server
 
@@ -502,17 +502,17 @@ sudo mono RelayControllerService.exe
 
 Initially you should see a successful handshake
 
-[![image](images/image_thumb4.png "image")](http://sumitmaitra.files.wordpress.com/2015/04/image4.png)
+[![image](images/image_thumb4.png "image")](/images/blog/2015/04/images/blog/image4.png)
 
 Next click on the 'Turn On 1' button and give it about a second to see the response on the RelayController window
 
-[![image](images/image_thumb5.png "image")](http://sumitmaitra.files.wordpress.com/2015/04/image5.png)
+[![image](images/image_thumb5.png "image")](/images/blog/2015/04/images/blog/image5.png)
 
 If you had the relay circuitry setup as shown in my previous article, the LED would have gone bright red and the relay clicked.
 
 Now click on the Turn Off 1 button and the service should respond accordingly.
 
-[![image](images/image_thumb6.png "image")](http://sumitmaitra.files.wordpress.com/2015/04/image6.png)
+[![image](images/image_thumb6.png "image")](/images/blog/2015/04/images/blog/image6.png)
 
 And we are done for today !!!
 

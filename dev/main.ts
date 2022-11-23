@@ -27,7 +27,7 @@ export class web {
                     this.app.use(bodyParser.urlencoded({ extended: false }));
 
                     var poet = Poet(this.app, {
-                        postsPerPage: 6,
+                        postsPerPage: 12,
                         posts: __dirname + '/posts',
                         metaFormat: 'yaml',
                         showDrafts: config.showDrafts,

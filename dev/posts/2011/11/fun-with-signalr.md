@@ -40,15 +40,15 @@ To build a scaffolding for SignalR framework you can use plain html with a backe
 
 ## Setting up a support app as an ASP.NET MVC 3 web project
 
-[![image](images/image_thumb.png "image")](http://sumitmaitra.files.wordpress.com/2011/11/image.png)
+[![image](images/image_thumb.png "image")](/images/blog/2011/11/images/blog/image.png)
 
-[![image](images/image_thumb1.png "image")](http://sumitmaitra.files.wordpress.com/2011/11/image1.png)
+[![image](images/image_thumb1.png "image")](/images/blog/2011/11/images/blog/image1.png)
 
 I called it ‘FunWithSignalR’ and set it up as an Intranet Application
 
 ## Adding SignalR to your project using Package Manager Console
 
-[![image](images/image_thumb2.png "image")](http://sumitmaitra.files.wordpress.com/2011/11/image2.png)
+[![image](images/image_thumb2.png "image")](/images/blog/2011/11/images/blog/image2.png)
 
 The package manager console helps you download Nuget packages among other things. If you don’t have it visible you can bring it up from the above menu (in VS 2010)
 
@@ -58,7 +58,7 @@ Install-package SignalR
 
 The above command will get all the dependencies you need for SignalR and if your jQuery script files are not up to speed, will get the latest libraries for jQuery too (SignalR client uses jQuery hence the dependency check results in the upgrade). The output will looks something similar to
 
-[![image](images/image_thumb3.png "image")](http://sumitmaitra.files.wordpress.com/2011/11/image3.png)
+[![image](images/image_thumb3.png "image")](/images/blog/2011/11/images/blog/image3.png)
 
 Update jQuery dependencies in Views\\Shared\\\_Layout.cshtml by pointing to the most recently updated jQuery version. As per above image the latest version for me today is jquery-1.6.4.min.js because that’s the one the package manager installed.
 
@@ -66,11 +66,11 @@ Update jQuery dependencies in Views\\Shared\\\_Layout.cshtml by pointing to the 
 
 We’ll setup a very simple code first model by adding one Entity called BlogPost in our Model folder.
 
-[![image](images/image_thumb4.png "image")](http://sumitmaitra.files.wordpress.com/2011/11/image4.png)
+[![image](images/image_thumb4.png "image")](/images/blog/2011/11/images/blog/image4.png)
 
 Add the DbContext for the BlogPost.
 
-[![image](images/image_thumb5.png "image")](http://sumitmaitra.files.wordpress.com/2011/11/image5.png)
+[![image](images/image_thumb5.png "image")](/images/blog/2011/11/images/blog/image5.png)
 
 Build the solution at this point.
 
@@ -78,7 +78,7 @@ Build the solution at this point.
 
 To use the default scaffold tooling that comes with MVC 3, right click on the Controllers folder and select Add –> Controller.
 
-[![image](images/image_thumb6.png "image")](http://sumitmaitra.files.wordpress.com/2011/11/image6.png)
+[![image](images/image_thumb6.png "image")](/images/blog/2011/11/images/blog/image6.png)
 
 Select the Template, Model and Data Context values as shown above and click Add.
 
@@ -88,13 +88,13 @@ At this point you will have the scaffolding necessary to Add/Edit/Delete BlogPos
 
 Open the BlogPostController and Copy paste the Get and Post action methods for the Edit action. Change Edit to Review as shown below.
 
-[![image](images/image_thumb7.png "image")](http://sumitmaitra.files.wordpress.com/2011/11/image7.png)
+[![image](images/image_thumb7.png "image")](/images/blog/2011/11/images/blog/image7.png)
 
 Copy the Edit.cshtml and paste it in the View folder. Rename it to Review.cshtml
 
 Update the Index.cshtml such that a ‘Review’ link comes up in the Index
 
-[![image](images/image_thumb8.png "image")](http://sumitmaitra.files.wordpress.com/2011/11/image8.png)
+[![image](images/image_thumb8.png "image")](/images/blog/2011/11/images/blog/image8.png)
 
 # Getting SignalR into the game
 
@@ -118,7 +118,7 @@ namespace FunWithSignalR.SignalR { \[HubName("blogHub")\] public class BlogHub :
 
 - Open Review.cshtml and add the following script references
 
-[![image](images/image_thumb9.png "image")](http://sumitmaitra.files.wordpress.com/2011/11/image9.png)
+[![image](images/image_thumb9.png "image")](/images/blog/2011/11/images/blog/image9.png)
 
 Note: json2.min.js is not packaged with the SignalR nuget. I have packaged it as a part of my code. I got it from Scott’s ‘Shakespeare demo’.
 
@@ -163,21 +163,21 @@ Changes I have made are:
 
 Run the application and navigate to the BlogPost Index
 
-[![image](images/image_thumb10.png "image")](http://sumitmaitra.files.wordpress.com/2011/11/image10.png)
+[![image](images/image_thumb10.png "image")](/images/blog/2011/11/images/blog/image10.png)
 
 Add a new Post
 
-[![image](images/image_thumb11.png "image")](http://sumitmaitra.files.wordpress.com/2011/11/image11.png)
+[![image](images/image_thumb11.png "image")](/images/blog/2011/11/images/blog/image11.png)
 
 Click on Review
 
-[![image](images/image_thumb12.png "image")](http://sumitmaitra.files.wordpress.com/2011/11/image12.png)
+[![image](images/image_thumb12.png "image")](/images/blog/2011/11/images/blog/image12.png)
 
 Press Ctrl+N to start a new browser instance with the same page. Hit F5 so the session id (the text field next to Save button) changes. Arrange the two browsers side by side.
 
 Type in one Post text area and watch the other one change almost simultaneously
 
-[![image](images/image_thumb13.png "image")](http://sumitmaitra.files.wordpress.com/2011/11/image13.png)
+[![image](images/image_thumb13.png "image")](/images/blog/2011/11/images/blog/image13.png)
 
 As Scott says, Kabooom! brain explodes…..
 

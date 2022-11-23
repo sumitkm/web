@@ -8,7 +8,7 @@ categories:
   - "windows-10"
 ---
 
-![](https://sumitmaitra.files.wordpress.com/2021/03/image.png?w=541)
+![](https://sumitmaitra.files.wordpress.com/2021/03/images/blog/image.png?w=541)
 
 Creating a Windows bootable USB drive in Linux
 

@@ -35,7 +35,7 @@ Next we have to get the Text plugin from Github directly. You can either clone t
 
 Once you have the file, add it to your scripts folder. I have started creating sub-folders for each library because it will come in handy later.
 
-[![image](images/image_thumb8.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/image8.png)
+[![image](images/image_thumb8.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/images/blog/image8.png)
 
 - **App/boot** : This folder will contain scripts that initialize our libraries
 - **App/components** : This folder will contain all the components we create. Each component in turn has it’s own folder that may contain the ViewModel, HTML template and more.
@@ -90,7 +90,7 @@ The first thing we do is add a greeting.html (name same as JavaScript is again n
 
 It contains the same markup that we had hardcoded in the template:
 
-[![image](images/image_thumb9.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/image9.png)
+[![image](images/image_thumb9.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/images/blog/image9.png)
 
 #### Update greeting.js
 

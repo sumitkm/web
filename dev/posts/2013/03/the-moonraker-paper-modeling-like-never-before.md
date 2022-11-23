@@ -15,7 +15,7 @@ tags:
 
 My 6yo has been asking for ‘Rocket’ projects (ever since he saw Tintin’s Moon adventure story), for a while now and we’ve staved it off with rockets like these
 
-[![2013-03-11T00-50-25_4](images/2013-03-11t00-50-25_4_thumb.jpg "2013-03-11T00-50-25_4")](http://sumitmaitra.files.wordpress.com/2013/03/2013-03-11t00-50-25_4.jpg)
+[![2013-03-11T00-50-25_4](images/2013-03-11t00-50-25_4_thumb.jpg "2013-03-11T00-50-25_4")](/images/blog/2013/03/2013-03-11t00-50-25_4.jpg)
 
 Not that he didn’t enjoy them, he made one for his friend too.
 
@@ -27,13 +27,13 @@ The actual design was 5 pages long, we printed it out at home and the fun starte
 
 Finally on Sunday morning I was able finish everything off and we had our space shuttle Moonraker ready!
 
-[![2013-03-11T00-50-24_0](images/2013-03-11t00-50-24_0_thumb.jpg "2013-03-11T00-50-24_0")](http://sumitmaitra.files.wordpress.com/2013/03/2013-03-11t00-50-24_0.jpg)
+[![2013-03-11T00-50-24_0](images/2013-03-11t00-50-24_0_thumb.jpg "2013-03-11T00-50-24_0")](/images/blog/2013/03/2013-03-11t00-50-24_0.jpg)
 
-[![2013-03-11T00-50-25_1](images/2013-03-11t00-50-25_1_thumb.jpg "2013-03-11T00-50-25_1")](http://sumitmaitra.files.wordpress.com/2013/03/2013-03-11t00-50-25_1.jpg)
+[![2013-03-11T00-50-25_1](images/2013-03-11t00-50-25_1_thumb.jpg "2013-03-11T00-50-25_1")](/images/blog/2013/03/2013-03-11t00-50-25_1.jpg)
 
-[![2013-03-11T00-50-25_3](images/2013-03-11t00-50-25_3_thumb.jpg "2013-03-11T00-50-25_3")](http://sumitmaitra.files.wordpress.com/2013/03/2013-03-11t00-50-25_3.jpg)
+[![2013-03-11T00-50-25_3](images/2013-03-11t00-50-25_3_thumb.jpg "2013-03-11T00-50-25_3")](/images/blog/2013/03/2013-03-11t00-50-25_3.jpg)
 
-[![2013-03-11T00-50-25_2](images/2013-03-11t00-50-25_2_thumb.jpg "2013-03-11T00-50-25_2")](http://sumitmaitra.files.wordpress.com/2013/03/2013-03-11t00-50-25_2.jpg)
+[![2013-03-11T00-50-25_2](images/2013-03-11t00-50-25_2_thumb.jpg "2013-03-11T00-50-25_2")](/images/blog/2013/03/2013-03-11t00-50-25_2.jpg)
 
 This is the most breathtaking piece of craftwork I have done in a very very very long time and it reminded me of how much I loved craft when I was a kid.
 

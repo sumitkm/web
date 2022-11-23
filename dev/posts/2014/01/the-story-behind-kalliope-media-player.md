@@ -9,7 +9,7 @@ tags:
   - "windows-rt"
 ---
 
-[![image](images/image_thumb.png "Kalliope-Media-Player-Home-Screen")](http://sumitmaitra.files.wordpress.com/2014/01/image.png)
+[![image](images/image_thumb.png "Kalliope-Media-Player-Home-Screen")](/images/blog/2014/01/images/blog/image.png)
 
 I am happy that [Kalliope Media Player](http://www.kalliopemedia.com/ "Offical web page - Kalliope Media Player") for Windows 8.1 is live on the [Windows 8.1 App Store](http://apps.microsoft.com/windows/app/kalliope-media-player/55bb7897-a784-4afd-ac0d-a4228dd38299 "Kalliope Media Player in the App Store"). While features and other details are coming up on the official website I wanted to write down the story behind why I built it in the first place. Specially since there are about 600 odd ‘Media Player’ apps in the App Store already!
 

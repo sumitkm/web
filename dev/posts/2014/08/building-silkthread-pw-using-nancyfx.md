@@ -35,11 +35,11 @@ So no ‘political’ reasons, just an eager beaver trying out a new framework. 
 
 Nancy has some neat Visual Studio project templates, so you can get started directly using these templates. But that’s less of fun than learning things ground up. So I decided to start with an Empty Web template.
 
-[![image](images/image_thumb21.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/image21.png)[![image](images/image_thumb22.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/image22.png)
+[![image](images/image_thumb21.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image21.png)[![image](images/image_thumb22.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image22.png)
 
 On clicking Ok, a new empty project is created, however we’ll see it has got a bunch of dependencies that I don’t think are required.
 
-[![image](images/image_thumb23.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/image23.png)
+[![image](images/image_thumb23.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image23.png)
 
 So we remove the ones shown selected above.
 
@@ -55,7 +55,7 @@ These two packages are all you need to get started.
 
 The Nancy equivalent of a ‘'AspNET MVC/WebAPI Controller” is the NancyModule. I have created a Modules folder and created added a HomeModule class in it. The Modules folder will hold our controller layer. In the root, I’ve added a IndexPage.html
 
-[![image](images/image_thumb24.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/image24.png)
+[![image](images/image_thumb24.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image24.png)
 
 Next I’ve updated the HomeModule to inherit from Nancy.Module.
 
@@ -71,7 +71,7 @@ The IndexPage.Html simply says “Hello Nancy”.
 
 With that set up, hit F5 and you should have a vanilla page on your default Browser as follows:
 
-[![image](images/image_thumb25.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/image25.png)
+[![image](images/image_thumb25.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image25.png)
 
 Well then, the myth of OSS projects being complex to get started with, stands BUSTED! Yes, Nancy is truly a low ceremony, awesome web framework.
 
@@ -81,7 +81,7 @@ But this is not what we want to setup do we? We want a nice Bootstrap Styled SPA
 
 To get SilkThread into the project, the best way would have been to get it via Nuget. But creating a Nuget package is a separate post, so we’ll use the age old technique of ‘copy-paste’. I have the latest code from the main branch of the project from Github. So I copied the App and Scripts folder into the project and re-arranged them a little. My new project structure is as follows:
 
-[![image](images/image_thumb26.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/image26.png)
+[![image](images/image_thumb26.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image26.png)
 
 I have made the following changes
 
@@ -110,7 +110,7 @@ Basically Nancy serves static content off the Content folder only by default (ht
 
 With those changes done, if we fire up our app, it will come up smoothly.
 
-[![image](images/image_thumb27.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/image27.png)
+[![image](images/image_thumb27.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image27.png)
 
 Sweet!
 
@@ -125,13 +125,13 @@ My host doesn’t support a fancy “Deploy from Github on commit to master’' 
 
 Here you go! [http://silkthread.pw](http://silkthread.pw)
 
-[![image](images/image_thumb28.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/image28.png)
+[![image](images/image_thumb28.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image28.png)
 
 (Note: I will be updating the site to be a little more useful so expect it to change over time).
 
 If you look at the deployment folder it’s got only three dlls, with the total deployment size < 1MB. That’s pretty cool!
 
-[![image](images/image_thumb29.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/image29.png)
+[![image](images/image_thumb29.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image29.png)
 
 ## Conclusion
 

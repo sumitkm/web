@@ -48,7 +48,7 @@ As mentioned above the first thing I tried to do was get my old lumbering enterp
 - Right click and select ‘Add Code Generation Item’.
 - From the ‘Add New Wizard’ select ADO.NET DBContext Generator. You’ll see it gives a Model1.tt (t4 template) name. Change the name if you want to and select Add.
 
-[![image](images/image_thumb.png "image")](http://sumitmaitra.files.wordpress.com/2011/07/image.png)
+[![image](images/image_thumb.png "image")](/images/blog/2011/07/images/blog/image.png)
 
 - You will see under in the class library a node gets added with the t4 template. When you expand the node you have the C# (or VB) classes for your entities.
 - Now build and re-try scaffolding the Controller and things will go through smoothly.

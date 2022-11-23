@@ -40,7 +40,7 @@ Essentially there are API leaks (this is my term, maybe it should be called some
 
 Well, looks like I am not too much of a trouble, so far the only issues reported are as follows:
 
-[![image](images/image_thumb.png "image")](http://sumitmaitra.files.wordpress.com/2014/02/image.png)
+[![image](images/image_thumb.png "image")](/images/blog/2014/02/images/blog/image.png)
 
 Mind you, these are visible only if the designers are open. The build is otherwise reported as OK. So these will bite your bum at runtime.
 

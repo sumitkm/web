@@ -12,7 +12,7 @@ tags:
   - "windows-rt"
 ---
 
-[![01-Surface-Black-Cover](images/01-surface-black-cover_thumb.jpg "01-Surface-Black-Cover")](http://sumitmaitra.files.wordpress.com/2013/04/01-surface-black-cover.jpg)
+[![01-Surface-Black-Cover](images/01-surface-black-cover_thumb.jpg "01-Surface-Black-Cover")](/images/blog/2013/04/01-surface-black-cover.jpg)
 
 ###### (Image Copyright: Microsoft Corporation, not to be reproduced from here)
 

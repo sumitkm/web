@@ -2,16 +2,21 @@
     font-family: 'ArchitectsDaughter';
     src: url('../fonts/ArchitectsDaughter.ttf') format('truetype');
 }
+
 body {
     padding-top: 50px;
     padding-bottom: 20px;
 }
 
+a {
+    text-decoration: none;
+}
 
 /* Set padding to keep content from hitting the edges */
 .body-content {
-line-height: 1.8em;
+    line-height: 1.8em;
 }
+
 .body-content img {
     max-width: 100%;
 }
@@ -36,16 +41,14 @@ textarea {
     color: #ffffff;
 }
 
-.piot-h2
-{
+.piot-h2 {
     font-family: ArchitectsDaughter;
     font-size: 25px !important;
     color: #9ddcff;
 
 }
 
-.piot-h3
-{
+.piot-h3 {
     font-family: ArchitectsDaughter;
     font-size: 22px !important;
     color: #000;
@@ -53,14 +56,14 @@ textarea {
 }
 
 .piot-header {
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(/images/header-bg.jpg) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    background: #2e7bcf url(/images/header-bg.jpg) 0 0 repeat-x;
+    border-bottom: solid 1px #275da1;
 }
 
-.piot-gallery-thumb{
+.piot-gallery-thumb {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -73,25 +76,25 @@ textarea {
 
 }
 
-.piot-gallery-col{
+.piot-gallery-col {
     padding: 5px;
     border-radius: 5px;
     /* border: 1px solid #D2D2D2; */
 }
 
-.piot-gallery-carousel{
+.piot-gallery-carousel {
     width: 100%;
 }
 
-.piot-gallery-carousel-v{
+.piot-gallery-carousel-v {
     height: 300px;
 }
 
-.piot-gallery-carousel-v::before{
+.piot-gallery-carousel-v::before {
     text-align: center;
 }
 
-.piot-carousel-text{
+.piot-carousel-text {
     background-color: #0E0E0E;
     padding: 10px;
     border-radius: 3px;
@@ -107,6 +110,7 @@ table tr {
     border: solid 1px #DDDDDD;
     border-width: 0 1px 1px 1px;
 }
+
 table tr td {
     padding: 5px;
 }
@@ -115,23 +119,26 @@ table thead tr {
     border: solid 1px #DDDDDD;
     border-width: 1px 1px 1px 1px;
 }
-table thead tr th{
+
+table thead tr th {
     padding: 6px;
     font-weight: bold;
 }
 
-table tbody tr td:nth-child(1){
-    text-align: right  !important;
+table tbody tr td:nth-child(1) {
+    text-align: right !important;
 }
 
-table tbody tr td:nth-child(3){
-    text-align: center  !important;
+table tbody tr td:nth-child(3) {
+    text-align: center !important;
 }
-table tbody tr td:nth-child(4){
-    text-align: right!important;
+
+table tbody tr td:nth-child(4) {
+    text-align: right !important;
 }
-table tbody tr td:nth-child(5){
-    text-align: right!important;
+
+table tbody tr td:nth-child(5) {
+    text-align: right !important;
 }
 
 table tbody tr:nth-child(odd) {

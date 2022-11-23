@@ -54,7 +54,7 @@ PM> install-package underscore.js
 
 The library is by default installed under the Scripts folder. I’ve moved it to the ‘Scripts\\underscore’ subfolder.
 
-[![image](images/image_thumb.png "image")](https://sumitmaitra.files.wordpress.com/2014/09/image.png)
+[![image](images/image_thumb.png "image")](https://sumitmaitra.files.wordpress.com/2014/09/images/blog/image.png)
 
 Like the app.js earlier we’ll register Underscore in the require.config.js as well.
 
@@ -170,11 +170,11 @@ If we run the application and navigate to the Settings page we'll see the follow
 
 \- First tab 'Settings 0' is selected - Greeter is saying Hello to 'Settings 0'
 
-[![image](images/image_thumb1.png "image")](https://sumitmaitra.files.wordpress.com/2014/09/image1.png)
+[![image](images/image_thumb1.png "image")](https://sumitmaitra.files.wordpress.com/2014/09/images/blog/image1.png)
 
 \- Clicking on Settings 1 tab, 'navigates to that tab.Notice the route changes to settings/tab1. This corresponds to the route we setup when initializing the tabitemConfig object.
 
-[![image](images/image_thumb2.png "image")](https://sumitmaitra.files.wordpress.com/2014/09/image2.png)
+[![image](images/image_thumb2.png "image")](https://sumitmaitra.files.wordpress.com/2014/09/images/blog/image2.png)
 
 Now we can click on the Browser back button to navigate back to Settings 0 tab, and go forward again to come back to Settings 1 tab. When you navigate you'll notice that the timestamp of Greeter component keeps changing this is because the greeter component doesn't cache the time stamp so everytime the constructor function is called, the time gets updated.
 

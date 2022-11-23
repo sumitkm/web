@@ -10,7 +10,7 @@ tags:
   - "windows-rt"
 ---
 
-[![image](images/image_thumb11.png "image")](http://sumitmaitra.files.wordpress.com/2013/10/image11.png)
+[![image](images/image_thumb11.png "image")](/images/blog/2013/10/images/blog/image11.png)
 
 Today’s announcement of Nokia Lumia 2520 made me happy briefly before I realized the inevitability – Microsoft has bought Nokia’s Lumia brand so once the acquisition goes through, either the Surface RT or the Lumia tablet would be canned. As a Surface RT owner and admirer of the Lumia brand it’s not a good scenario, but that’s not what this post is about, the thought of one of the products getting canned rekindled memories of the Courier. Microsoft’s parallel tablet OS experiment that lost out to Windows 8.
 

@@ -26,7 +26,7 @@ From the looks of it, the WaveShare screen checked all the boxes though the last
 
 It is available from multiple resellers on Amazon. I bought it via In4dealz and fulfilled my Amazon. They were offering a stand and frame for 6 GBP extra. Total cost 46 GBP. Plus, I bought an Anker Astro E1 external battery pack to power the thing. It's 5200 mAh and should be able to power the Pi for a while.
 
-![WP_20160103_15_55_04_Pro](images/wp_20160103_15_55_04_pro.jpg)
+![WP_20160103_15_55_04_Pro](images/images/wp_20160103_15_55_04_pro.jpg)
 
 Here are the unboxing images:
 

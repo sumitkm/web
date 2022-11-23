@@ -38,7 +38,7 @@ Registered and downloaded the latest samples from Telerik (the project had the p
 - Added the Telerik.Web.Mvc from sample to my project (essentially replaced the reference added by Nuget)
 - Then I noticed the following little piece missing in the \_Layout.cshtml
 
-[![image](images/image_thumb.png "image")](http://sumitmaitra.files.wordpress.com/2011/02/image.png)
+[![image](images/image_thumb.png "image")](/images/blog/2011/02/images/blog/image.png)
 
 Even after adding it the errors continued.
 
@@ -47,7 +47,7 @@ Back to sample.
 - Then I noticed in the sample \_Layout.chtml there were no direct references to the individual js files (from telerik). All it had was the above registration code. Light bulb moment!!!
 - Removed the direct references to the other js files and kept the registration code only. Still no luck! But this time I got an exception in the above line saying one of the js files not found under “~/Scripts/” folder. Oh Boy! All the telerik js files need to be under “~/Scripts/”. Moved them out to the  ‘Scripts’ root and changed the code to look like
 
-[![image](images/image_thumb1.png "image")](http://sumitmaitra.files.wordpress.com/2011/02/image1.png)
+[![image](images/image_thumb1.png "image")](/images/blog/2011/02/images/blog/image1.png)
 
 - Eureka moment! Finally things look the way they should.
 

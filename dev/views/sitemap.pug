@@ -1,12 +1,12 @@
 doctype xml
 urlset(xmlns="http://www.sitemaps.org/schemas/sitemap/0.9")
   url
-    - var homeUrl = 'https://piofthings.net'
+    - var homeUrl = 'https://sumitmaitra.com'
       loc= homeUrl
   url
-    - var blogUrl = 'https://piofthings.net/blog'
+    - var blogUrl = 'https://sumitmaitra.com/blog'
       loc= blogUrl
   each post in posts
-    - var fullUrl = 'https://piofthings.net' + post.url
+    - var fullUrl = 'https://sumitmaitra.com' + post.url
       url
         loc= fullUrl

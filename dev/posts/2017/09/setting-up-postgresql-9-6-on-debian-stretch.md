@@ -8,6 +8,7 @@ categories:
 tags: 
   - "debian"
   - "stretch"
+  - postgresql
 ---
 
 I have been trying to setup a home network of connected devices for... lets just say a long time! I have made some progress in recent days and the next step is to start using some sort of backing store to store some values.
@@ -100,7 +101,7 @@ You should now be able to access if from a Remote Client.
 
 I use the standard pgAdmin 4 and the connection settings were as follows
 
-![Screen Shot 2017-09-10 at 5.48.34 PM](images/screen-shot-2017-09-10-at-5-48-34-pm.png)
+![Screen Shot 2017-09-10 at 5.48.34 PM](/images/blog/2017/09/images/screen-shot-2017-09-10-at-5-48-34-pm.png)
 
 And done!
 

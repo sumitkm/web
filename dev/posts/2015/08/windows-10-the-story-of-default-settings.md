@@ -27,11 +27,11 @@ As a self-respecting software developer, I never install Express/Recommended/Def
 
 In past Windows 8.1 always had two clear options "Express" and "Custom". The buttons were equally sized right next to each other. Express was the default and it said clearly that it was going to sniff into everything you do on your computer. However selecting "Custom", Windows would turn off all the naughty bits and leave some for you to turn off/on. This is what Windows 8.1 looked like
 
-[![image](images/image_thumb.png "image")](http://sumitmaitra.files.wordpress.com/2015/08/image.png)
+[![image](images/image_thumb.png "image")](/images/blog/2015/08/images/blog/image.png)
 
 When Windows 10 starts configuration you get this:
 
-[![image](images/image_thumb1.png "image")](http://sumitmaitra.files.wordpress.com/2015/08/image1.png)
+[![image](images/image_thumb1.png "image")](/images/blog/2015/08/images/blog/image1.png)
 
 Customize settings is now obscured on the left side as a link, as if it links to text like the 'learn more' link on top of it.
 
@@ -77,11 +77,11 @@ After windows has downloaded and done its eye of Sauron installation/copy of fil
 
 1\. Click on the Customize Settings link. I have disabled all Personalization stuff but kept the Location on. Keeping it on turns on a few ad related stuff in browsing, that you can turn off but to be safe just turn the dang thing off.
 
-[![image](images/image_thumb2.png "image")](http://sumitmaitra.files.wordpress.com/2015/08/image2.png)
+[![image](images/image_thumb2.png "image")](/images/blog/2015/08/images/blog/image2.png)
 
 2\. Next You can keep smart screen on and disable the rest. I had kept the Send error and diagnostic information to Microsoft on, only to find out there isn't really a way to turn it off ever. So on/off doesn't matter. I'll show how to reduce levels in a bit. But do make sure you turn off automatic connection to open hotspots. This is important for laptops and portable devices. Also keep Automatic connect to networks by your contacts. Slyly this is not referred to as WiFi-Sense here in the settings.
 
-[![image](images/image_thumb3.png "image")](http://sumitmaitra.files.wordpress.com/2015/08/image3.png)
+[![image](images/image_thumb3.png "image")](/images/blog/2015/08/images/blog/image3.png)
 
 I don't have any more screen captures, so I am guessing that ends the setup options.
 
@@ -95,7 +95,7 @@ To go to settings app, press the Windows Key and start typing 'Settings'. When y
 
 #### Privacy - General Settings
 
-[![image](images/image_thumb4.png "image")](http://sumitmaitra.files.wordpress.com/2015/08/image4.png)
+[![image](images/image_thumb4.png "image")](/images/blog/2015/08/images/blog/image4.png)
 
 The last setting 'Let websites provide locally relevant content by accessing my language list' might be enabled. Decide what you want to do with it. I've disabled it.
 
@@ -103,7 +103,7 @@ Don't be confused by the 'Some settings are managed by your organization' messag
 
 #### Privacy - Location tab
 
-[![image](images/image_thumb5.png "image")](http://sumitmaitra.files.wordpress.com/2015/08/image5.png)
+[![image](images/image_thumb5.png "image")](/images/blog/2015/08/images/blog/image5.png)
 
 On my desktop I have no need for the Location to be on, so I just turned it off. If you turn it off apps will not be able to use it. Alternately you can keep it on and turn off individual app access just like you do on phones.
 
@@ -111,19 +111,19 @@ On my desktop I have no need for the Location to be on, so I just turned it off.
 
 The following apps had access to my web camera by default. I turned off access for a bunch
 
-[![image](images/image_thumb6.png "image")](http://sumitmaitra.files.wordpress.com/2015/08/image6.png)
+[![image](images/image_thumb6.png "image")](/images/blog/2015/08/images/blog/image6.png)
 
 #### Privacy - Microphone Tab
 
 This one is rather important so not only do you have to set this up in the beginning be sure you come back to it occasionally to review it
 
-[![image](images/image_thumb7.png "image")](http://sumitmaitra.files.wordpress.com/2015/08/image7.png)
+[![image](images/image_thumb7.png "image")](/images/blog/2015/08/images/blog/image7.png)
 
 #### Speech, Inking and Typing
 
 While speech is a strict no-no for me, Inking would have been okay if I had a touch screen device I could write on (read Surface tablets). If you don't you are better off tell Windows to buzz off and not bother about knowing you.
 
-[![image](images/image_thumb8.png "image")](http://sumitmaitra.files.wordpress.com/2015/08/image8.png)
+[![image](images/image_thumb8.png "image")](/images/blog/2015/08/images/blog/image8.png)
 
 The 'Get to know me' button indicates it is disabled. This is because we had turned it off in the very first page of Customization screen.
 
@@ -131,19 +131,19 @@ The 'Get to know me' button indicates it is disabled. This is because we had tur
 
 I've set my name and picture to be visible, but I have no idea what other account info is being 'sold off'.
 
-[![image](images/image_thumb9.png "image")](http://sumitmaitra.files.wordpress.com/2015/08/image9.png)
+[![image](images/image_thumb9.png "image")](/images/blog/2015/08/images/blog/image9.png)
 
 #### Privacy - Contacts
 
 There are two weird apps here that are trying to access my Contacts. I have no idea what they are and I don't really want to give them access. So Windows if you give a crap about what users think either explain what those two Apps (App connector and Windows Shell Experience) are or get turned off.
 
-[![image](images/image_thumb10.png "image")](http://sumitmaitra.files.wordpress.com/2015/08/image10.png)
+[![image](images/image_thumb10.png "image")](/images/blog/2015/08/images/blog/image10.png)
 
 #### Privacy - Feedback & diagnostics
 
 This is the screen I was talking about. You cannot set the Diagnostic and usage data to NONE or Never. Basic is the lowest you can go.
 
-[![image](images/image_thumb11.png "image")](http://sumitmaitra.files.wordpress.com/2015/08/image11.png)
+[![image](images/image_thumb11.png "image")](/images/blog/2015/08/images/blog/image11.png)
 
 When I moaned about it online (okay I called the privacy settings 'vile'), Clemens Vasters a Microsoftie whom I respect a lot, came back saying that's got nothing to do with privacy. This is his exact tweet.
 
@@ -163,15 +163,15 @@ In such a scenario you have to do a few more settings to optimize.
 
 Go back to Setting home and click on 'Update & Security'
 
-[![image](images/image_thumb12.png "image")](http://sumitmaitra.files.wordpress.com/2015/08/image12.png)
+[![image](images/image_thumb12.png "image")](/images/blog/2015/08/images/blog/image12.png)
 
 Click on Advanced options.
 
-[![image](images/image_thumb13.png "image")](http://sumitmaitra.files.wordpress.com/2015/08/image13.png)
+[![image](images/image_thumb13.png "image")](/images/blog/2015/08/images/blog/image13.png)
 
 Next click on 'Choose how updates are delivered'
 
-[![image](images/image_thumb14.png "image")](http://sumitmaitra.files.wordpress.com/2015/08/image14.png)
+[![image](images/image_thumb14.png "image")](/images/blog/2015/08/images/blog/image14.png)
 
 Microsoft has introduced peer-to-peer delivery of updates, but guess what, it wants to use your internet connection to deliver updates to others on the 'Internet'. Ahem why? Using peer transfer on local network is commendable, but internet, that too by default? What where you thinking Microsoft? I have changed the setting to PCs on my local network.
 
@@ -181,7 +181,7 @@ When in India over my piss poor internet, every time I tried to use the new 'Sea
 
 But earlier today I found out that you could switch off Web searches as follows.
 
-[![image](images/image_thumb15.png "image")](http://sumitmaitra.files.wordpress.com/2015/08/image15.png)
+[![image](images/image_thumb15.png "image")](/images/blog/2015/08/images/blog/image15.png)
 
 That will improve your 'Search Windows' performance significantly over slow internet connections or older hardware or both (funny its called 'Search Windows' but tries to search the internet by default)!
 

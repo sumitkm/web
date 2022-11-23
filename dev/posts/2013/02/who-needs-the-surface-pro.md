@@ -11,7 +11,7 @@ tags:
   - "windows-8"
 ---
 
-[![01-22SurfaceTypecover_Web](images/01-22surfacetypecover_web_thumb.jpg "01-22SurfaceTypecover_Web")](http://sumitmaitra.files.wordpress.com/2013/04/01-22surfacetypecover_web.jpg)
+[![01-22SurfaceTypecover_Web](images/01-22surfacetypecover_web_thumb.jpg "01-22SurfaceTypecover_Web")](/images/blog/2013/04/01-22surfacetypecover_web.jpg)
 
 ###### (Image Copyright: Microsoft Corporation, not to be reproduced from here)
 

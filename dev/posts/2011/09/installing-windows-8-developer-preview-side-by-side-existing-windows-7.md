@@ -41,25 +41,25 @@ You need to do this ONLY if you don’t have a partition that can be formatted. 
 - Select Storage->Disk Management
 - Select the drive that has atleast 20GB free.
 - Right click on the drive and select ‘Shrink Volume’. It will take a couple of minutes for the disk-manager to respond but at the end it will show the following dialog
-- [![image](images/image_thumb2.png "image")](http://sumitmaitra.files.wordpress.com/2011/09/image2.png)
+- [![image](images/image_thumb2.png "image")](/images/blog/2011/09/images/blog/image2.png)
 - First Line is maximum capacity of the drive. I am writing this blog on the Win8 server so it’s showing ~20GB.
 - Second line is the size up to which you can shrink it down (not sure how Windows came up with that number but I am sure it can’t shrink it down to that size because there isn’t so much space left on the drive currently).
 - Third line is size of new drive.
 - Fourth line shows the future size of current partition (size after shrinking).
 - Click Shrink. Windows will shrink the partition and you’ll have a Unallocated block as follows
 
-[![image](images/image_thumb3.png "image")](http://sumitmaitra.files.wordpress.com/2011/09/image3.png)
+[![image](images/image_thumb3.png "image")](/images/blog/2011/09/images/blog/image3.png)
 
 - Right Click on it and select New Simple Volume.
 
-[![image](images/image_thumb4.png "image")](http://sumitmaitra.files.wordpress.com/2011/09/image4.png)
+[![image](images/image_thumb4.png "image")](/images/blog/2011/09/images/blog/image4.png)
 
 - Follow the wizard and create a new partition ready for setup
-- [![image](images/image_thumb5.png "image")](http://sumitmaitra.files.wordpress.com/2011/09/image5.png)
-- [![image](images/image_thumb6.png "image")](http://sumitmaitra.files.wordpress.com/2011/09/image6.png)Allocate maximum (that is selected by default)
-- [![image](images/image_thumb7.png "image")](http://sumitmaitra.files.wordpress.com/2011/09/image7.png)
-- [![image](images/image_thumb8.png "image")](http://sumitmaitra.files.wordpress.com/2011/09/image8.png)Give a Volume name identifying it as a Win8 Drive.
-- [![image](images/image_thumb9.png "image")](http://sumitmaitra.files.wordpress.com/2011/09/image9.png)Click Finish.
+- [![image](images/image_thumb5.png "image")](/images/blog/2011/09/images/blog/image5.png)
+- [![image](images/image_thumb6.png "image")](/images/blog/2011/09/images/blog/image6.png)Allocate maximum (that is selected by default)
+- [![image](images/image_thumb7.png "image")](/images/blog/2011/09/images/blog/image7.png)
+- [![image](images/image_thumb8.png "image")](/images/blog/2011/09/images/blog/image8.png)Give a Volume name identifying it as a Win8 Drive.
+- [![image](images/image_thumb9.png "image")](/images/blog/2011/09/images/blog/image9.png)Click Finish.
 
 # 2\. Start Installation
 

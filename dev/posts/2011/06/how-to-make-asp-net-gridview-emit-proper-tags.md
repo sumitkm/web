@@ -37,7 +37,7 @@ We will create a new ASP.NET web application and use the DataTables jQuery plugi
 
 Fire up Visual Studio (whichever version you have) and create a new ASP.NET Web Application
 
-[![image](images/image_thumb.png "image")](http://sumitmaitra.files.wordpress.com/2011/06/image.png)
+[![image](images/image_thumb.png "image")](images/images/blog/image.png)
 
 ### Step 2 – Finding a Data Source (ignore this and Step 3 if you already have a data source handy)
 
@@ -73,7 +73,7 @@ e. From the examples\\example\_support\\themes\\smoothness folder copy the jquer
 
 f. Exclude the jquery.dataTables.js, jquery.js and jquery.dataTables.min.js.gz files. The rest of the files are enough. (the .min.js version is minified meaning it doesn’t have any kind of whitespaces and reduced in size as much as possible. It’s not at all readable so if you want to go through the js to understand it, use the non-minified version) Your solution explorer should looks something like the following.
 
-[![image](images/image_thumb1.png "image")](http://sumitmaitra.files.wordpress.com/2011/06/image1.png)
+[![image](images/image_thumb1.png "image")](images/images/blog/image1.png)
 
 ### Step 7 – Connect to Data Source
 
@@ -81,19 +81,19 @@ I will connect to the above data using the Entity Data Source. You can select yo
 
 a. Right Click on Solution Explorer and Select Add New Item. Select Data from the Installed Templates and ADO.Net Entity Data Model. Name it NorthwindModel.edmx
 
-[![image](images/image_thumb2.png "image")](http://sumitmaitra.files.wordpress.com/2011/06/image2.png)
+[![image](images/image_thumb2.png "image")](images/images/blog/image2.png)
 
 b. Select the default ‘Generate from Database’ and click Next.
 
-[![image](images/image_thumb3.png "image")](http://sumitmaitra.files.wordpress.com/2011/06/image3.png)
+[![image](images/image_thumb3.png "image")](images/images/blog/image3.png)
 
 c. If Northwind.sdf connection was open it will select it by default and the next screen should look something like the following.
 
-[![image](images/image_thumb4.png "image")](http://sumitmaitra.files.wordpress.com/2011/06/image4.png)
+[![image](images/image_thumb4.png "image")](images/images/blog/image4.png)
 
 d. The Wizard will connect to the DB and load up the schema. Select all the tables and click Finish.
 
-[![image](images/image_thumb5.png "image")](http://sumitmaitra.files.wordpress.com/2011/06/image5.png)
+[![image](images/image_thumb5.png "image")](images/images/blog/image5.png)
 
 e. Save solution and do a ‘Build All’.
 
@@ -101,15 +101,15 @@ e. Save solution and do a ‘Build All’.
 
 a. In the designer click on the GridView smart tag and bring up the Choose Data Source Dialog
 
-[![image](images/image_thumb6.png "image")](http://sumitmaitra.files.wordpress.com/2011/06/image6.png)
+[![image](images/image_thumb6.png "image")](images/images/blog/image6.png)
 
 b. Click Ok to bring up the Configure ObjectContext wizard. It should select the NorthwindEntites connection it created while building the data source by default. If you named it differently in Step 6.c. select the name that you gave it. The DefaultContainerName will come up automatically once you select the Named Connection. Click Next.
 
-[![image](images/image_thumb7.png "image")](http://sumitmaitra.files.wordpress.com/2011/06/image7.png)
+[![image](images/image_thumb7.png "image")](images/images/blog/image7.png)
 
 c. Select the EntitySetName (table) that you want to show. I’ve selected the Products table and opted to show all the columns. You can pick and choose. As of now we are not doing any Inserts/Updates or Deletes, keep them unchecked. Click Finish
 
-[![image](images/image_thumb8.png "image")](http://sumitmaitra.files.wordpress.com/2011/06/image8.png)
+[![image](images/image_thumb8.png "image")](images/images/blog/image8.png)
 
 If you run your application at this point you will see the grid populated with data from the products table. Just for kicks right click on the browser to bring up source, you will see the <thread><tr><th> rendering for the table in the final HTML. So far so good.
 
@@ -133,7 +133,7 @@ For a complete reference to possible parameters refer to DataTables’ excellent
 
 Lo and behold!
 
-[![image](images/image_thumb9.png "image")](http://sumitmaitra.files.wordpress.com/2011/06/image9.png)
+[![image](images/image_thumb9.png "image")](images/images/blog/image9.png)
 
 ### Step 9 – Playing around with the ‘jQuerified Grid’
 

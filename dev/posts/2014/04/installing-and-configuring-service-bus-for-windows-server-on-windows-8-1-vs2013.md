@@ -26,15 +26,15 @@ Obviously there are two parts to installing any ‘server’ API, the ‘Server�
 
 2\. Go to Products, Select Azure, then Add and Install “Windows Azure Pack: Service Bus 1.1”
 
-[![image](images/image_thumb.png "image")](http://sumitmaitra.files.wordpress.com/2014/04/image.png)
+[![image](images/image_thumb.png "image")](/images/blog/2014/04/images/blog/image.png)
 
 3\. This is the prerequisites list I got, your mileage may vary. Accept the license and let the installation proceed.
 
-[![image](images/image_thumb1.png "image")](http://sumitmaitra.files.wordpress.com/2014/04/image1.png)
+[![image](images/image_thumb1.png "image")](/images/blog/2014/04/images/blog/image1.png)
 
 4\. You should end up with a Success screen highlighting the components installed.
 
-[![image](images/image91_thumb.png "image")](http://sumitmaitra.files.wordpress.com/2014/04/image91.png)
+[![image](images/image91_thumb.png "image")](/images/blog/2014/04/images/blog/image91.png)
 
 ### Configuring Service Bus
 
@@ -44,40 +44,40 @@ a. Service Bus Configuration and
 
 b. Service Bus PowerShell
 
-[![image](images/image_thumb2.png "image")](http://sumitmaitra.files.wordpress.com/2014/04/image2.png)
+[![image](images/image_thumb2.png "image")](/images/blog/2014/04/images/blog/image2.png)
 
 1\. Start off with the Service Bus Configuration. Select “Create a New Farm” –> “Using  Default Settings”.
 
-[![image](images/image16_thumb.png "image")](http://sumitmaitra.files.wordpress.com/2014/04/image16.png)
+[![image](images/image16_thumb.png "image")](/images/blog/2014/04/images/blog/image16.png)
 
 2\. The **New Farm Configuration** window is used for providing the following information
 
 a. SQL Server Instance: I’ve set it up to use Windows Authentication (to change, click on Advanced Options)
 
-[![image](images/image_thumb3.png "image")](http://sumitmaitra.files.wordpress.com/2014/04/image3.png)
+[![image](images/image_thumb3.png "image")](/images/blog/2014/04/images/blog/image3.png)
 
 b. **Configure Service Account**: This is usually an Admin account (on the machine or domain). If you don’t have a domain controller you can use your Windows Account. If you are using an Outlook/MS Live account, only the name will be shown, don’t try to add @outlook.com to the ‘User ID’. Keep the ‘User ID’ and provide the password that you use to log in to windows/Outlook.
 
 c. **Certification Generation Key**: This key is used as the seed to generate a Certificate. Save the value you enter it, it so that you can add nodes to the farm later. Check the ‘Enable firewall rules on this computer’ so that the firewall rules are setup automatically.
 
-[![image](images/image_thumb4.png "image")](http://sumitmaitra.files.wordpress.com/2014/04/image4.png)
+[![image](images/image_thumb4.png "image")](/images/blog/2014/04/images/blog/image4.png)
 
 d. **Configure Service Bus Namespace**: The service bus namespace is used for identifying the bus and connecting to it. Provide an appropriate string. I’ve stuck to the default below.
 
 e. **Service Bus Management Portal**: This section is relevant if you want to manage the service bus setup via a Azure Management like portal that can be installed on premises as well. We’ll cover the portal in a different article. For now provide a user name/password pair for Administrator and Tenant User. These are forms authentication settings so save these details for use later.
 
-[![image](images/image_thumb5.png "image")](http://sumitmaitra.files.wordpress.com/2014/04/image5.png)
+[![image](images/image_thumb5.png "image")](/images/blog/2014/04/images/blog/image5.png)
 
 Once done, click on the ‘Next’ button (the right arrow button). It will show a progress bar until it’s done. At this point it will show a summary. At the bottom there are two links, Copy and Get PowerShell Commands. You can extract the PowerShell Commands and save them for later if you want to re-setup the system.
 
-[![image](images/image_thumb6.png "image")](http://sumitmaitra.files.wordpress.com/2014/04/image6.png)
+[![image](images/image_thumb6.png "image")](/images/blog/2014/04/images/blog/image6.png)
 
 Click on the Complete button, this actually executes the Power Shell commands that were generated.
 
-[![image](images/image39_thumb.png "image")](http://sumitmaitra.files.wordpress.com/2014/04/image39.png)
+[![image](images/image39_thumb.png "image")](/images/blog/2014/04/images/blog/image39.png)
 
 This completes the Service Bus setup. You can open the **Service Bus PowerShell** and review the status of the farm using the Get-SBFarmStatus command. It should return something like the following
 
-[![image](images/image_thumb7.png "image")](http://sumitmaitra.files.wordpress.com/2014/04/image7.png)
+[![image](images/image_thumb7.png "image")](/images/blog/2014/04/images/blog/image7.png)
 
 With that we have successfully setup SBWS. In the next post we’ll see how we can use the service bus.

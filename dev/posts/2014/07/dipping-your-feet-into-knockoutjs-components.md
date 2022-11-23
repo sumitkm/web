@@ -49,15 +49,15 @@ Since our project is all clean, let’s first install Bootstrap that we’ll use
 
 This gives us the following folder structure, where Content has the StyleSheets and Scripts has the JavaScripts required.
 
-[![image](images/image_thumb.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/image.png)
+[![image](images/image_thumb.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/images/blog/image.png)
 
 Now add a new HTML page to the root of the project, call it Index.html (or home.html)
 
-[![image](images/image_thumb1.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/image1.png)
+[![image](images/image_thumb1.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/images/blog/image1.png)
 
 Thanks to Visual Studio I have forgotten how to setup a basic startup page using Bootstrap. Serves me right, that, I have to scratch my head and wonder ‘now what’:
 
-[![image](images/image_thumb2.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/image2.png)
+[![image](images/image_thumb2.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/images/blog/image2.png)
 
 After ‘considerable’ struggle ![Winking smile](images/wlemoticon-winkingsmile.png), I update the HTML to include Bootstrap styling and jQuery references.
 
@@ -65,13 +65,13 @@ After ‘considerable’ struggle ![Winking smile](images/wlemoticon-winkingsmil
 
 Now if I run this in Visual Studio we’ll get the following page:
 
-[![image](images/image_thumb3.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/image3.png)
+[![image](images/image_thumb3.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/images/blog/image3.png)
 
 ## Let’s see some KO!
 
 I am assuming you have downloaded the KO library as instructed above, so add it to the scripts folder and add a reference to it in our HTML file.
 
-[![image](images/image_thumb4.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/image4.png)
+[![image](images/image_thumb4.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/images/blog/image4.png)
 
 Now our App is going to be all HTML and JavaScript and I don’t see the need for CSHTML files at the moment. So let’s create an App folder in the application to consolidate ‘our stuff’.
 
@@ -89,7 +89,7 @@ Finally we add reference to this script in our Index.html and add a couple of sp
 
 Refresh the Index.html on your browser and you should see something similar:
 
-[![image](images/image_thumb5.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/image5.png)
+[![image](images/image_thumb5.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/images/blog/image5.png)
 
 Now if you are wondering what’s so great about this, it’s exactly how KO works, you are right!
 
@@ -133,7 +133,7 @@ Next update the Index.html to pass parameters to our component.
 
 Refresh the page and you see the following:
 
-[![image](images/image_thumb6.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/image6.png)
+[![image](images/image_thumb6.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/images/blog/image6.png)
 
 Copy paste multiple <greeter … /> instances and pass different names to them
 
@@ -141,7 +141,7 @@ Copy paste multiple <greeter … /> instances and pass different names to them
 
 Refresh Index again and things work as expected!
 
-[![image](images/image_thumb7.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/image7.png)
+[![image](images/image_thumb7.png "image")](https://sumitmaitra.files.wordpress.com/2014/07/images/blog/image7.png)
 
 Congratulations, you have built your first KO component!
 

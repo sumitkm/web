@@ -29,7 +29,7 @@ To run this code you don't need anything on the other end of the relays. You can
 
 I connected two of the 8 relays to GPIO 17 and GPIO 22. So the connections were like this
 
-[![GPIOtoRelay](images/gpiotorelay_thumb.png "GPIOtoRelay")](http://sumitmaitra.files.wordpress.com/2015/03/gpiotorelay.png)
+[![GPIOtoRelay](images/gpiotorelay_thumb.png "GPIOtoRelay")](/images/blog/2015/03/images/blog/gpiotorelay.png)
 
 The board on the left is a not-to-scale representation of the Raspberry Pi 2 as seen from the CPU side. The GPIO ports take up more space on my diagram than in the actual board, but you get the point.
 
