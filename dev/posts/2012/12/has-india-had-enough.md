@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Has India had enough?"
 date: "2012-12-30"
 categories: 

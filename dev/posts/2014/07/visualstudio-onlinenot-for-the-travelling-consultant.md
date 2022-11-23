@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "VisualStudio Online&ndash;Not for the travelling consultant"
 date: "2014-07-20"
 categories: 

@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Using the iPhone 3GS"
 date: "2009-06-21"
 categories: 

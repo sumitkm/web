@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Dual Booting LINUX (Debian Jessie) and OSX (Yosemite)"
 date: "2015-09-10"
 categories: 

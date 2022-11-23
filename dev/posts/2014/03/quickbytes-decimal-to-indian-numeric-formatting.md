@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "QuickBytes: Decimal to Indian Numeric formatting"
 date: "2014-03-08"
 categories: 

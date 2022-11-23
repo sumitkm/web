@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Visiting Swindon, UK"
 date: "2013-09-02"
 tags: 

@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Finally I start blogging"
 date: "2007-01-13"
 tags: 

@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "The Blog a Week Challenge!"
 date: "2011-01-29"
 tags: 

@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Getting rid of SQL SERVER Transaction Logs in Dev Environment"
 date: "2010-02-10"
 tags: 

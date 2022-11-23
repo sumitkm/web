@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Who needs the Surface Pro?"
 date: "2013-02-06"
 categories: 

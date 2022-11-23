@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Getting your Debian Jessie System Ready for .NET work"
 date: "2015-09-13"
 categories: 

@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "QuickBytes: Who's afraid of Github?  (Downloading code without cloning)"
 date: "2014-01-31"
 categories: 

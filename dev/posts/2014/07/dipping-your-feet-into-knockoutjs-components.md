@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Dipping your feet into KnockoutJS Components"
 date: "2014-07-20"
 categories: 

@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Quickbytes: How to connect to MongoDB in a VM, from OSX (bindIP)"
 date: "2016-07-29"
 categories: 

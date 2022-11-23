@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "QuickBytes: ASP.NET InProc Session and Multiple Workers (don&rsquo;t go well together)"
 date: "2014-03-22"
 categories: 

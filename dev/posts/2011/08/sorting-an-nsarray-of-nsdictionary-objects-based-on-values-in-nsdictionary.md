@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Sorting an NSArray of NSDictionary objects, based on values in NSDictionary"
 date: "2011-08-07"
 categories: 

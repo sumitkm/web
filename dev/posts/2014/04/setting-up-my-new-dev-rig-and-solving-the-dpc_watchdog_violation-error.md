@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Setting up my new Dev Rig and solving the DPC_WATCHDOG_VIOLATION error"
 date: "2014-04-14"
 categories: 

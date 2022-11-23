@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Setting up PostgreSQL (9.6) on Debian Stretch"
 date: "2017-09-17"
 categories: 

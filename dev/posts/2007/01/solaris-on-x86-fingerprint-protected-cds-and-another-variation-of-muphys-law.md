@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Solaris on x86, Fingerprint Protected CDs and another variation of Muphy's Law."
 date: "2007-01-16"
 tags: 

@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Pulling the plug (on Windows10) and moving to Linux on my desktop"
 date: "2015-10-13"
 categories: 

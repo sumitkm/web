@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "I Like Hulu :)"
 date: "2009-04-25"
 categories: 

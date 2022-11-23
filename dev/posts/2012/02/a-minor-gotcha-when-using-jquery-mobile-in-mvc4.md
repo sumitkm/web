@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "A Minor Gotcha when using jquery.mobile in MVC4"
 date: "2012-02-28"
 categories: 

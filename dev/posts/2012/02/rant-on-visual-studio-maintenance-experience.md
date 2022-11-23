@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Rant on Visual Studio Maintenance Experience"
 date: "2012-02-25"
 categories: 

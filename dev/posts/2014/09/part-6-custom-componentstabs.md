@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Part 6: Custom Components - Tabs"
 date: "2014-09-25"
 categories: 

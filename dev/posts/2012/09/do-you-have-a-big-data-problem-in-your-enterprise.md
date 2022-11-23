@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Do you have a Big Data problem in your Enterprise?"
 date: "2012-09-18"
 categories: 

@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Juicing up a dated MacBook Pro"
 date: "2013-11-15"
 categories: 

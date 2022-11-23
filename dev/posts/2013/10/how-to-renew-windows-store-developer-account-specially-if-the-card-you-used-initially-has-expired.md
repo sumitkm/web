@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "How to renew Windows Store Developer account (Specially if the card you used initially has expired)"
 date: "2013-10-15"
 categories: 

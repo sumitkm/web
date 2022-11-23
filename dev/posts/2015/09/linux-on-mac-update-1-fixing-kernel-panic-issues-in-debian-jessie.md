@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Linux on Mac Update 1: Fixing Kernel Panic issues in Debian Jessie"
 date: "2015-09-20"
 categories: 

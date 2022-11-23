@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Yet another \"Avatar\" review"
 date: "2009-12-26"
 categories: 

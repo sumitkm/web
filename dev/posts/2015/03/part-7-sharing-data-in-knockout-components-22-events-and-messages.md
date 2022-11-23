@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Part 7: Sharing Data in Knockout Components (2/2) - Events and Messages"
 date: "2015-03-03"
 categories: 

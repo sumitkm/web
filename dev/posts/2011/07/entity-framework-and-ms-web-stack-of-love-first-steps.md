@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Entity Framework and MS Web Stack of Love - First Steps"
 date: "2011-07-14"
 categories: 

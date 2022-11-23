@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Part 4: SPA with KO Components-PushState and History JS"
 date: "2014-08-19"
 categories: 

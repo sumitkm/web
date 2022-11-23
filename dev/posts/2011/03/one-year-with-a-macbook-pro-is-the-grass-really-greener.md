@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "One year with a MacBook Pro (Is the grass really greener&hellip;?)"
 date: "2011-03-06"
 categories: 

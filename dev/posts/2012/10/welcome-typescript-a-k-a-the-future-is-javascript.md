@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Welcome #TypeScript &ndash; a.k.a. the Future is JavaScript"
 date: "2012-10-01"
 categories: 

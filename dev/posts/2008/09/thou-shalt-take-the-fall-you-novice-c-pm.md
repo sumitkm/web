@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Thou shalt take the fall - you novice C-PM"
 date: "2008-09-05"
 categories: 

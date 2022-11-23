@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Why are .NET Devs in knots after Windows 8 demo?"
 date: "2011-06-04"
 categories: 

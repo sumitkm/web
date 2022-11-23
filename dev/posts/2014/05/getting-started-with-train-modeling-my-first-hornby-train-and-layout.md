@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Getting Started with Train Modeling: My first Hornby Train and Layout"
 date: "2014-05-12"
 categories: 

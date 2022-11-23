@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "QuickBytes: Visual Studio 2013 refuses to load some projects from a VS2010 solution"
 date: "2013-11-07"
 categories: 

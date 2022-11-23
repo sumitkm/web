@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Time Machine Backup and Restore Experience"
 date: "2012-03-19"
 categories: 

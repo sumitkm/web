@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Part 5: SPAs, Accessibility and the Server side"
 date: "2014-08-25"
 categories: 

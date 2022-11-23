@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Microsoft&rsquo;s $900MM Debacle&ndash;Surface RT"
 date: "2013-07-19"
 categories: 

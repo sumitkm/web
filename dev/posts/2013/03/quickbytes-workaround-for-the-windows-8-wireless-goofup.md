@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "QuickBytes: Workaround for the Windows 8 Wireless goofup"
 date: "2013-03-20"
 categories: 

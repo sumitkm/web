@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Setting up a Makibes (Waveshare) 1024x600 touchscreen with your Raspberry Pi Zero"
 date: "2016-01-07"
 categories: 

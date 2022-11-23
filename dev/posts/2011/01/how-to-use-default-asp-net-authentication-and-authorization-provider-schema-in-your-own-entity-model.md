@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "How to: Use default ASP.NET Authentication and Authorization Provider Schema in your own Entity Model?"
 date: "2011-01-30"
 categories: 

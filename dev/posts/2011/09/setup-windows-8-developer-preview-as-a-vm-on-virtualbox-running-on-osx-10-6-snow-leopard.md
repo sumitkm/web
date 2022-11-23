@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Setup Windows 8 Developer Preview as a VM on VirtualBox running on OSX 10.6 (Snow Leopard)"
 date: "2011-09-14"
 categories: 

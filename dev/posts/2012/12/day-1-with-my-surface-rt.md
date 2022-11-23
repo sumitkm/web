@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Day 1 with my @Surface RT"
 date: "2012-12-07"
 categories: 

@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Part 7: Sharing data in Knockout Components (1/2) - Building a Tree Component"
 date: "2014-12-24"
 categories: 
@@ -36,7 +37,8 @@ I am starting with v6 label of my BuildingSpaWithKO project in Github.
 
 a. Add new folder under App/pages called docs b. Add a docs.js and docs.html file in the docs folder. Remove all the boilerplate code/markup that Visual Studio adds and setup the component as follows
 
-\[sourcecode language="javascript" padlinenumbers="true"\] define(\['knockout', 'text!./docs.html'\], function (ko, docsTemplate) { function docsViewModel(params) { var self = this; self.title = ko.observable('SilkThread - Yet another SPA Framework'); self.data ={ title: 'Documentation Home', nodes: \[\] }; return self; } return { viewModel: docsViewModel, template: docsTemplate }; }); \[/sourcecode\]
+\[sourcecode language="javascript" padlinenumbers="true"\] define(\['knockout', 'text!./docs.html'\], function (ko, docsTemplate) { function docsViewModel(params) { var self = this; self.title = ko.observable('SilkThread - Yet another SPA Framework'); self.data ={ author: "Sumit"
+title: 'Documentation Home', nodes: \[\] }; return self; } return { viewModel: docsViewModel, template: docsTemplate }; }); \[/sourcecode\]
 
 The component is pretty self explanatory, it has two properties, title and data. The title property has a default text but is an observable, so if we bind it to an html element if will be updated in the UI if we decide to change the Title at runtime.
 
@@ -130,7 +132,17 @@ We go back to the app.js file and add our two new components to the ko.component
 
 Now that we've got the components in place, let's add some dummy data to bring up the tree. We go back to the docs.js file and update the data source.
 
-\[sourcecode language="javascript"\] self.data = { title: "Documentation Home", nodes: \[ { title: "Node 0", nodes: \[ { title: "Node 0-1", expanded: false, nodes: \[ { title: "Node 0-1-0" }, { title: "Node 0-1-1" } \] }, { title: "Node 0-2" }\] }, { title: "Node 1", expanded: false, nodes: \[ { title: "Node 1-1" }, { title: "Node 1-2" }\] }, { title: "Node 2" }\] } \[/sourcecode\]
+\[sourcecode language="javascript"\] self.data = { author: "Sumit"
+title: "Documentation Home", nodes: \[ { author: "Sumit"
+title: "Node 0", nodes: \[ { author: "Sumit"
+title: "Node 0-1", expanded: false, nodes: \[ { author: "Sumit"
+title: "Node 0-1-0" }, { author: "Sumit"
+title: "Node 0-1-1" } \] }, { author: "Sumit"
+title: "Node 0-2" }\] }, { author: "Sumit"
+title: "Node 1", expanded: false, nodes: \[ { author: "Sumit"
+title: "Node 1-1" }, { author: "Sumit"
+title: "Node 1-2" }\] }, { author: "Sumit"
+title: "Node 2" }\] } \[/sourcecode\]
 
 ## Demo Time
 

@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Hooking up Visual Studio 2012 to manage Azure websites remotely"
 date: "2013-07-31"
 categories: 

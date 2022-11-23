@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Trip to the US East Coast"
 date: "2011-10-14"
 ---

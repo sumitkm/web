@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "30 Days with Windows 8"
 date: "2012-11-30"
 categories: 

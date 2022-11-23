@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Steve Jobs"
 date: "2011-10-07"
 categories: 

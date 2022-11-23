@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "QuickBytes: Hacking up the color of a WinRT ProgressBar"
 date: "2013-11-15"
 categories: 

@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Part 3: KO Components - Routes and Hashes"
 date: "2014-08-04"
 categories: 

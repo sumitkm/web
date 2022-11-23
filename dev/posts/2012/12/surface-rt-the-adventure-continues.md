@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Surface RT - The adventure continues"
 date: "2012-12-11"
 categories: 

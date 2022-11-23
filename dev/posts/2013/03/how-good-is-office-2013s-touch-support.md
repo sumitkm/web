@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "How good is Office 2013’s Touch support?"
 date: "2013-03-07"
 categories: 

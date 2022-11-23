@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "QuickByte: Creating a Windows bootable USB drive in Linux"
 date: "2021-03-20"
 categories: 

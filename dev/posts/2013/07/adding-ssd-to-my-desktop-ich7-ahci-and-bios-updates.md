@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Adding ssd to my desktop&ndash; ICH7, ahci and bios updates"
 date: "2013-07-14"
 categories: 

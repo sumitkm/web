@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "The Chrome OS (and Google's plan to takeover the earth ;-) )"
 date: "2009-11-22"
 categories: 

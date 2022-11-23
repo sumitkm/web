@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Developing Windows 8 apps on Windows 8.1 Dev Machine (Updated)"
 date: "2014-02-08"
 categories: 

@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Nokia X: The illegitimate lovechild of AOSP and MS Services"
 date: "2014-02-24"
 categories: 

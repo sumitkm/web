@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "How to format a Disk in Debian Jessie"
 date: "2016-05-22"
 categories: 

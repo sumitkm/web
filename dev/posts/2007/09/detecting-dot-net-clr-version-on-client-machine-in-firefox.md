@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Detecting dot net CLR version on client machine in Firefox"
 date: "2007-09-04"
 tags: 

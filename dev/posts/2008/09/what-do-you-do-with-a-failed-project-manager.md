@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "What do you do with a failed Project Manager!"
 date: "2008-09-05"
 tags: 

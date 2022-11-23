@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "IdeaPress and The Lazy Blogger"
 date: "2013-05-04"
 categories: 

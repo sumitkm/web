@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "My wish list for @Windows RT 8.1"
 date: "2013-05-26"
 categories: 

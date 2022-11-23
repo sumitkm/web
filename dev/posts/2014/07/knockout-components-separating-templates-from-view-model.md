@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Knockout Components - Separating Templates from View Model"
 date: "2014-07-29"
 categories: 

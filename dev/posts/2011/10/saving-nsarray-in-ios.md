@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Saving NSArray in iOS"
 date: "2011-10-16"
 categories: 

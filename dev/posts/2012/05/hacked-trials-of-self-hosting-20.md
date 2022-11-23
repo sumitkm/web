@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "HACKED! Trials of self hosting"
 date: "2012-05-01"
 tags: 

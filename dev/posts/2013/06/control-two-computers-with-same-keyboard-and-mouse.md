@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Control Two Computers with same Keyboard and Mouse"
 date: "2013-06-05"
 categories: 

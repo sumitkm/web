@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Hello Roku (and why I had to return my Apple TV)"
 date: "2010-11-05"
 categories: 

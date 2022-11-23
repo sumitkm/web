@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Finally Upgraded my PC"
 date: "2007-08-04"
 categories: 

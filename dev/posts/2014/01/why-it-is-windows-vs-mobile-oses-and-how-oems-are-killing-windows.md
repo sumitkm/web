@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Why it is Windows vs. Mobile OS(es) and how OEMs are killing Windows"
 date: "2014-01-16"
 categories: 

@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Capturing images through webcams in a WPF app"
 date: "2011-03-13"
 categories: 

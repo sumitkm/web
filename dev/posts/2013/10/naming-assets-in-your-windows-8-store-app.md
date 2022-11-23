@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Naming Assets in your Windows 8 Store App"
 date: "2013-10-13"
 categories: 

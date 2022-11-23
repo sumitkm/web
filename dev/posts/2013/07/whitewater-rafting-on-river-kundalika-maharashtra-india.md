@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Whitewater rafting on river Kundalika, Maharashtra, India"
 date: "2013-07-14"
 categories: 

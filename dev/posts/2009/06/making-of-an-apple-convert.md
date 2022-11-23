@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Making of an \"Apple\" convert..."
 date: "2009-06-19"
 categories: 

@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Getting the 3GS on the first day"
 date: "2009-06-20"
 categories: 

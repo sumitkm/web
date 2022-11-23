@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Windows 10, the story of 'Default settings'"
 date: "2015-08-01"
 categories: 

@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Removing Linux and grub loader from a Dual boot system"
 date: "2007-10-21"
 categories: 

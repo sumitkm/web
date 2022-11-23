@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Installing Windows 8 Developer Preview side-by-side existing Windows 7"
 date: "2011-09-16"
 categories: 

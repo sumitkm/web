@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "QuickBytes: Visual Studio 2013 and JavaScript Debugging"
 date: "2013-12-11"
 categories: 

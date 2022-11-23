@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "&ldquo;Damned if we do, Damned if we don&rsquo;t&rdquo; &ndash; Is 15M on day 1 bad for @Surface Sales?"
 date: "2013-02-10"
 categories: 

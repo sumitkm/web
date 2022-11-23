@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "My Raspberry Pi Powered &lsquo;Personal Cloud&rsquo;"
 date: "2013-07-21"
 categories: 

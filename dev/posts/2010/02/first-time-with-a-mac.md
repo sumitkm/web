@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "First time with a Mac"
 date: "2010-02-01"
 tags: 

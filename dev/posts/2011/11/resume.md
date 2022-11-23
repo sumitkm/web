@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Resume"
 date: "2011-11-17"
 ---

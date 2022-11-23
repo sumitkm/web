@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Fun with @SignalR"
 date: "2011-11-13"
 categories: 

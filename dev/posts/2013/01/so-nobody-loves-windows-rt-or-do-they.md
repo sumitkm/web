@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "So nobody loves Windows RT? Or do they?"
 date: "2013-01-15"
 categories: 

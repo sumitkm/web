@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Downloading Windows Store Apps after a busted Windows 8 Update"
 date: "2013-01-24"
 categories: 

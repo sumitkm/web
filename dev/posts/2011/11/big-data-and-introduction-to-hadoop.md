@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Big Data and Introduction to Hadoop"
 date: "2011-11-05"
 categories: 

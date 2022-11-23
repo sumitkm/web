@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Completing my Pi powered personal (Media) cloud"
 date: "2013-08-10"
 categories: 

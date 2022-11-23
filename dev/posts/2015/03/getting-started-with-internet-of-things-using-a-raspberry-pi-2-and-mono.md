@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Getting started with Internet of things using a Raspberry Pi 2 and Mono"
 date: "2015-03-22"
 categories: 

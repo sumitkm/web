@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "The Story behind Kalliope Media Player"
 date: "2014-01-07"
 categories: 

@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Getting started with NodeJS – Part 1: Fumbling around"
 date: "2016-01-02"
 categories: 

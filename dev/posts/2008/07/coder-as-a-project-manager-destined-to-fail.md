@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Coder as a Project Manager - destined to fail?"
 date: "2008-07-18"
 tags: 

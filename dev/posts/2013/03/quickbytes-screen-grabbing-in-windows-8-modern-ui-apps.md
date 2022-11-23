@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "QuickBytes: Screen Grabbing in Windows 8 Modern UI Apps"
 date: "2013-03-20"
 categories: 

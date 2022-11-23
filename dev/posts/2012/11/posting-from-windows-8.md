@@ -1,4 +1,5 @@
 ---
+author: "Sumit"
 title: "Posting from Windows 8"
 date: "2012-11-29"
 ---
