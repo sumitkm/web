@@ -23,11 +23,11 @@ Then I did the same search on Google and it gave me the result as you can see ab
 
 I was flabbergasted and mad, so I took to the “international cribbing machine” aka Twitter (apologies for the swearing).
 
-[![image](images/image_thumb.png "image")](/images/blog/2013/03/images/blog/image.png)
+[![image](images/image_thumb.png "image")](/images/blog/2013/03/images/image.png)
 
 Today morning I got a message from @Bing
 
-[![image](images/image_thumb1.png "image")](/images/blog/2013/03/images/blog/image1.png)
+[![image](images/image_thumb1.png "image")](/images/blog/2013/03/images/image1.png)
 
 Which needless to say leaves me a little red-in-the-ears, but it ended up in this blog post.
 

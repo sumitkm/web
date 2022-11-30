@@ -44,17 +44,17 @@ You can clone the History.js repo from Github [here](https://github.com/browsers
 
 Your cloned folder should look like this:
 
-[![image](images/image_thumb5.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image5.png)
+[![image](images/image_thumb5.png "image")](/images/blog/2014/08/images/image5.png)
 
 The Scripts folder has the following the sub-folders. Mechanics behind these folder is actually pretty neat.
 
-[![image](images/image_thumb6.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image6.png)
+[![image](images/image_thumb6.png "image")](/images/blog/2014/08/images/image6.png)
 
 ### History JS Components and Dependencies
 
 History JS depends on availability of the JSON object so for older browsers that don’t have JSON parsing built in, it refers to JSON2.js. It bootstraps itself differently based on what library you are using. So there are various adapters that bootstraps History JS correctly with the respective library.
 
-[![image](images/image_thumb7.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image7.png)
+[![image](images/image_thumb7.png "image")](/images/blog/2014/08/images/image7.png)
 
 The **bundled\*** folder contains one file per-adapter. Each file contains JSON2.js, the respective Adapter and the entire HistoryJS library. So all you have to do is pick the file from either the **bundled-uncompressed\\** folder or if you want to use the minified version use the same file from the **bundled\\** folder. Note there are two subfolders under **bundled\\** folder – **html4+html5** and **html5.** If you don’t want to support HTML4 the library is trimmed a little further, but we want it, so we’ll dive into the **html4+html5** folder.
 
@@ -66,17 +66,17 @@ In my sample I’ve picked the **native.history.js** file from the **bundled-unc
 
 1. Since it’s a base library we’ll put it in it’s own folder under Scripts
 
-[![image](images/image_thumb8.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image8.png)
+[![image](images/image_thumb8.png "image")](/images/blog/2014/08/images/image8.png)
 
 2\. Next we update the **App\\boot\\require.config.js** to load HistoryJS after bootstrap is loaded and remove the Hasher.js dependency.
 
-[![image](images/image_thumb9.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image9.png)
+[![image](images/image_thumb9.png "image")](/images/blog/2014/08/images/image9.png)
 
 3\. **Modifying our Router:** We will need multiple changes in our Router.js file to configure it to use History.js instead of Hasher.js.
 
 a. We start by adding historyjs dependency in the module definition
 
-[![image](images/image_thumb10.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image10.png)
+[![image](images/image_thumb10.png "image")](/images/blog/2014/08/images/image10.png)
 
 b. Handling anchor clicks to prevent server requests directly: This is actually a big deal. Typically we navigate to a different page by specifying an Anchor tag that has a href pointing to the new page. It may be a full path or partial path. When user clicks on an anchor the request is sent to the server by the browser. When using Hasher we worked around this by using href’s that started with a #. This told the browser that the reference was in the current page itself and then we hooked into the event and did our AJAX magic to load a new page. This also had the side effect of putting a # in the URL irrespective of the browser.
 
@@ -84,7 +84,7 @@ To avoid # in the hrefs, we need to handle all href clicks globally and push the
 
 To do this we assign a click handler for all URLs inside the HTML body tag. We check if the href attribute starts with a #, it means it’s a deliberate reference to some place in the current page and we let the event pass through. If the href doesn’t start with a # we push the path to History using the pushState function. Note we are not using window.pushstate because we want History to manage the pushState for older browser that don’t have a native implementation.
 
-[![image](images/image_thumb11.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image11.png)
+[![image](images/image_thumb11.png "image")](/images/blog/2014/08/images/image11.png)
 
 c. Next we update the **activateCrossroads()** function to intercept HistoryJS’ **statechange** event and pass the new path to crossroads:
 
@@ -98,11 +98,11 @@ Well, we have made all changes we need so it’s a good time to test it out. I h
 
 On IE11 the site navigates cleanly
 
-[![image](images/image_thumb12.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image12.png)[![image](images/image_thumb13.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image13.png)
+[![image](images/image_thumb12.png "image")](/images/blog/2014/08/images/image12.png)[![image](images/image_thumb13.png "image")](/images/blog/2014/08/images/image13.png)
 
 I emulate IE9 DOM on IE11 and I get the rather ugly hash based URL.
 
-[![image](images/image_thumb14.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image14.png)
+[![image](images/image_thumb14.png "image")](/images/blog/2014/08/images/image14.png)
 
 Well, old browser users have to live with some ugly stuff unfortunately. But here is the good part, if users bookmark that URL, History JS will do it’s best to return users to the same URL.
 
@@ -116,6 +116,6 @@ With that I’ll end this article here and push the server side manipulation to 
 
 Just so you know, on modern browsers that support pushstate currently if we visit the /settings page directly it will show us an invalid URL.
 
-[![image](images/image_thumb15.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image15.png)
+[![image](images/image_thumb15.png "image")](/images/blog/2014/08/images/image15.png)
 
 Ideally it will show a 404, but my 404 redirection is broken so it’s showing this weird error. Eitherways, we’ll end up with an error. In the next part we’ll see how we can fix this.

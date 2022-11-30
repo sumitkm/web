@@ -27,7 +27,7 @@ Apart from the above three we will also use [knockout-projections extension libr
 
 I have downloaded them and added to the solution resulting in the following folder layout:
 
-[![image](images/image_thumb.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image.png) Figure 1
+[![image](images/image_thumb.png "image")](/images/blog/2014/08/images/image.png) Figure 1
 
 ### Updating require.config.js
 
@@ -43,7 +43,7 @@ As I said in my previous article the folder structure I was using is pretty arbi
 
 Under App we will add a **pages** folder which will have all our ‘page’ components. I have added two, **home** and **settings**.
 
-[![image](images/image_thumb1.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image1.png) Figure 2
+[![image](images/image_thumb1.png "image")](/images/blog/2014/08/images/image1.png) Figure 2
 
 ### The home page-component
 
@@ -115,15 +115,15 @@ With our components registered, we are all set to try it out.
 
 When we run the app, and see the Debug window, you will notice we have downloads the styles and templates that pertain to the Index page, the Home page and the greeter component. The Settings component has not been downloaded yet.
 
-[![image](images/image_thumb2.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image2.png)
+[![image](images/image_thumb2.png "image")](/images/blog/2014/08/images/image2.png)
 
 Now if you clear the Network activity window and click on Settings, you will note that only one file is downloaded and that is settings.html. This may seem insignificant for this demo, but has a huge impact when your applications grow big and have hundreds of components (yes, they can have 100s of components, just take my word for it ![Winking smile](images/wlemoticon-winkingsmile.png)).
 
-[![image](images/image_thumb3.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image3.png)
+[![image](images/image_thumb3.png "image")](/images/blog/2014/08/images/image3.png)
 
 It is all the more fun to note that now if you switch back to Home page no components are called from the server because the browser has everything it needs, so unless you want to force refresh the page with data from server, navigating between pages is as fluid as a client app!
 
-[![image](images/image_thumb4.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image4.png)
+[![image](images/image_thumb4.png "image")](/images/blog/2014/08/images/image4.png)
 
 So we have navigation between pages and just in time loads. What about the dreaded browser Back button? Well, if you play around with it, you’ll notice back button works perfectly fine and crossroads is able to switch between views thanks to Hasher monitoring hash changes. Excellent, we could have stopped here and gone home happy but…!
 

@@ -11,7 +11,7 @@ tags:
   - "c"
 ---
 
-[![image](images/image_thumb.png "image")](/images/blog/2014/03/images/blog/image.png)
+[![image](images/image_thumb.png "image")](/images/blog/2014/03/images/image.png)
 
 Recently I came across the need to format Decimal as Currency, but force it down to [Indian/Vedic/South Asian numeric formatting](https://en.wikipedia.org/wiki/South_Asian_numbering_system "Indian Numbering System") (thousands, lacs, crores etc.) instead of the standard Arabic/Metric system (thousands, hundred thousands, million, billion etc.).
 

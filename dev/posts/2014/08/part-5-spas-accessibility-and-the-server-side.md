@@ -62,15 +62,15 @@ This was the default page.
 
 In the browser change URL by adding settings you’ll get an error as follows:
 
-[![image](images/image_thumb16.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image16.png)
+[![image](images/image_thumb16.png "image")](/images/blog/2014/08/images/image16.png)
 
 This is because there is an invalid redirection in my web.config. Open the web.config and delete the highlighted section
 
-[![image](images/image_thumb17.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image17.png)
+[![image](images/image_thumb17.png "image")](/images/blog/2014/08/images/image17.png)
 
 Now if you type in the URL /settings on the browser you’ll get a proper 404
 
-[![image](images/image_thumb18.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image18.png)
+[![image](images/image_thumb18.png "image")](/images/blog/2014/08/images/image18.png)
 
 You must be wondering how come when I click on Settings link from Home page I get a proper page, but when I type in the URL I get a 404? Well, that’s because typing in a URL sends the request to the server directly. In our case, it sends to ASP.NET MVC. MVC framework uses the current route info and tries to map it to a ‘SettingsController’ with a default ‘Index’ action method. However it doesn’t find the SettingsController and throws a 404.
 
@@ -94,7 +94,7 @@ As you can see above, we have changed the url parameter to be a wildcard {\*path
 
 If you run the application now, and navigate to the Settings page by typing in the URL you’ll see that there is no more 404 error. BUT, the client side routing seems to be taking us back to the Index page. Why?
 
-[![image](images/image_thumb19.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image19.png)
+[![image](images/image_thumb19.png "image")](/images/blog/2014/08/images/image19.png)
 
 ### Removing hard coded default path in router.js
 
@@ -120,7 +120,7 @@ As we can see we have commented out the default routing to the root ‘/’.
 
 With everything in place if we run the app now, and try to type if /settings at the end of the URL we’ll get the correct settings page.
 
-[![image](images/image_thumb20.png "image")](https://sumitmaitra.files.wordpress.com/2014/08/images/blog/image20.png)
+[![image](images/image_thumb20.png "image")](/images/blog/2014/08/images/image20.png)
 
 But again, before the Settings page is loaded you will briefly see the red banner saying ‘Index from Server’ flash briefly before navigating to the ‘'Settings’ page. This is because for all URLs we are returning the same Index page from the Server. How do we fix this, if the answer wasn’t obvious, read on ![Smile](images/wlemoticon-smile.png)
 

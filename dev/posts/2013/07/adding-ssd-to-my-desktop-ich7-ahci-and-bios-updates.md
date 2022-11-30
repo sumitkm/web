@@ -18,17 +18,17 @@ I’ve been holding off on an SSD upgrade for a very long time now, simply becau
 
 I got the **Kingston V+200 240 GB SSD Internal Hard Drive (SVP200S37A/240G)** from Flipkart for Rs.11,542/-. Snagged an extra 10% discount during one of their Monday Sale events.
 
-[![image](images/image_thumb.png "image")](/images/blog/2013/07/images/blog/image.png)
+[![image](images/image_thumb.png "image")](/images/blog/2013/07/images/image.png)
 
 # Installation and Upgrade
 
 The physical installation was a little tricky because the above model unfortunately didn’t come with a bay converter. Neither did it come with SATA cable or screws (as falsely promised by Flipkart).
 
-[![image](images/image_thumb1.png "image")](/images/blog/2013/07/images/blog/image1.png)
+[![image](images/image_thumb1.png "image")](/images/blog/2013/07/images/image1.png)
 
 Anyways, for someone who’s been assembling computers for the last 15 years I had enough backup screws ![Winking smile](images/wlemoticon-winkingsmile.png). The SSD came with a self adhesive plastic rim that’s supposed to act as a spacer if you are using it in a laptop. I used the spacer as a stand as I rested the SSD belly up on one of the bays and put in two screws to hold it in place. (Use screws that come for CD Drives, the other cabinet screws are bigger, the drive is delicate so don’t force bigger screws in, you might just void the warranty).
 
-[![image](images/image_thumb2.png "image")](/images/blog/2013/07/images/blog/image2.png)
+[![image](images/image_thumb2.png "image")](/images/blog/2013/07/images/image2.png)
 
 Once connected, I booted up to the Windows 8 Partition I had and installed the [EaseUS Todo Backup 6.0 Free](http://www.todo-backup.com/products/home/free-backup-software.htm "EaseUS Todo Backup 6.0 Free").
 
@@ -79,7 +79,7 @@ AHCI stands for - _**Advanced Host Controller Interface**_ a relatively new stan
 
 > _The ICH7 chipset does not support AHCI and no amount of BIOS upgrades is going to get you this ability_
 > 
-> [![image](images/image_thumb3.png "image")](/images/blog/2013/07/images/blog/image3.png)
+> [![image](images/image_thumb3.png "image")](/images/blog/2013/07/images/image3.png)
 
 Most sites will tell you to enable AHCI in your BIOS and if you go to buy a Motherboard today it will probably come with AHCI default. But unfortunately my M/B is an ageing 6 years+ for a first Gen Core 2. It never had AHCI support to start with.
 
@@ -91,7 +91,7 @@ So if you have the Chipset ICH7 stop looking of AHCI support in your BIOS. There
 
 This one was confusing to find at first too. So the shortcut is to look at the AS SSD and spot the controller name
 
-[![image](images/image_thumb4.png "image")](/images/blog/2013/07/images/blog/image4.png)
+[![image](images/image_thumb4.png "image")](/images/blog/2013/07/images/image4.png)
 
 If it says ‘**intelide**’ you have an IDE controller. AHCI controllers usually say **iastor** or **msahci**, first one being an Intel Driver and the next one being a native Microsoft Driver.
 
@@ -101,7 +101,7 @@ Someday soon, I’ll be upgrading to a new M/B + Processor and this SSD should b
 
 For now, I leave you with the rather embarrassing overall WEI score of my PC before and after the upgrade (psst, HDD score went from 5.9 to 7.2):
 
-[![image](images/image_thumb5.png "image")](/images/blog/2013/07/images/blog/image5.png)
+[![image](images/image_thumb5.png "image")](/images/blog/2013/07/images/image5.png)
 
 PS: This post has been a month in the ‘writing’. As you can see from the timestamps in the above image, I did the upgrade just about a month ago. So far so good, all’s well with the Kingston drive on Windows 8 Pro, perfectly stable and much smoother performance.
 

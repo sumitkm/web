@@ -25,7 +25,7 @@ On Windows 8 (which is my Master) it threw a compatibility warning at the beginn
 
 Designated the desktop as the Master.
 
-[![image](images/image_thumb.png "image")](/images/blog/2013/06/images/blog/image.png)
+[![image](images/image_thumb.png "image")](/images/blog/2013/06/images/image.png)
 
 Designating it as master requires you to do two things
 
@@ -34,7 +34,7 @@ Designating it as master requires you to do two things
 
 Next I designated the laptop as a Slave
 
-[![image](images/image_thumb1.png "image")](/images/blog/2013/06/images/blog/image1.png)
+[![image](images/image_thumb1.png "image")](/images/blog/2013/06/images/image1.png)
 
 This usually implies Adding the name of the Master machine. None of the above radio buttons are selected by default so it refuses connection requests by default. After I added the name, I had to go back and do the Step 2 above. Once done I was all set!
 

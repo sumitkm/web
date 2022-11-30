@@ -27,19 +27,19 @@ Once you have VirtualBox and Win 8 DP iso, lets get started.
 
 Fire up Virtual Box. It will look as follows:
 
-[![](images/images/blog/image002.png)](/images/blog/2011/09/images/blog/image002.png)
+[![](images/images/image002.png)](/images/blog/2011/09/images/image002.png)
 
 # Step 2
 
 Click on ‘New’
 
-![](images/images/blog/image004.png)
+![](images/images/image004.png)
 
 # Step 3
 
 Click Continue
 
-![](images/images/blog/image006.png)
+![](images/images/image006.png)
 
 # Step 4: Give the VM a Name.
 
@@ -50,7 +50,7 @@ Click Continue
 - I am assuming you have downloaded the 64 Bit ISO from MS.
     
 
-![](images/images/blog/image008.png)
+![](images/images/image008.png)
 
 # Step 5: Selecting memory for the VM.
 
@@ -60,57 +60,57 @@ This is a very critical step. If you over-allocate memory the VM setup will fail
 - A good indication of free memory can be had by running Activity Monitor on OSX or Task Manager if you are doing it on Windows host system. Rebooting the system before starting might give you some more memory. But remember if you don’t have that much memory later when you try to start the VM, Virtual Box will simply Pause the VM load unless it has the allocated memory (+some more) to play with.
 - Below screenshots show how to check free memory in your system currently
 
-[![image](images/image_thumb.png "image")](/images/blog/2011/09/images/blog/image.png)
+[![image](images/image_thumb.png "image")](/images/blog/2011/09/images/image.png)
 
 Above image of Task Manager shows 932Mb free on this Win7 System.
 
-[![image](images/image_thumb1.png "image")](/images/blog/2011/09/images/blog/image1.png)
+[![image](images/image_thumb1.png "image")](/images/blog/2011/09/images/image1.png)
 
 Above image from the Activity Monitor in OSX shows free memory available = 516 MB
 
 The example values are very less because I am running two VMs at the moment, but point to note is you need to make a guess of Memory to allocate to the VM based on the above Free Memory available values. So if you see 2.0 GB free then assign about 1.5 GB. Hope this update helps people who are facing setup issues.
 
-![](images/images/blog/image010.png)
+![](images/images/image010.png)
 
 # Step 6. Create a New Hard Disk
 
-![](images/images/blog/image012.png)
+![](images/images/image012.png)
 
 # Step 7.  Select type of Image
 
 I selected VDI.
 
-![](images/images/blog/image014.png)
+![](images/images/image014.png)
 
 # Step 8. Selecting Storage Type
 
 Keep it Dynamically Allocated unless you want to block off a portion of your HDD to start off with.
 
-![](images/images/blog/image016.png)
+![](images/images/image016.png)
 
 # Step 9. Specify the VM file location and Size.
 
 20GB is default and it worked for me. My installation left about 6 GB of the 20 GB left
 
-![](images/images/blog/image018.png)
+![](images/images/image018.png)
 
 # Step 10. Finish VM Setup
 
 Click Create.
 
-![](images/images/blog/image020.png)
+![](images/images/image020.png)
 
 # Step 11. Win 8 Installations
 
 Now Click on Start
 
-![](images/images/blog/image022.png)
+![](images/images/image022.png)
 
 # Step 12. Select source ISO file
 
 Here point it to the iso file you downloaded
 
-![](images/images/blog/image024.png)
+![](images/images/image024.png)
 
 # Step 13. Fun times begin
 
@@ -131,7 +131,7 @@ Notes:
 
 **UPDATE**: Some folks have had a hard time in-spite of the tutorial, so that got me thinking and I realized that between the setup failing for me the first time around (that I attributed to lack of memory above) and me getting it working, I also did some configuration changes to the VM that are different from the default shown in Step 10: So here are the final settings that work for me (click to expand). Notice I have enabled Acceleration, given it both the CPU cores to play with (default is 1 only) and given it a healthy dose of Graphics memory. For your system, keep an eye for the Green Line for each setting, don’t stretch beyond the green line in any of the settings. Again, virtualization is tough job simply because of the sheer number of h/w software combinations possible. So if it’s not working for you, sorry to hear that.
 
-[![VBFinalSettings](images/vbfinalsettings_thumb.png "VBFinalSettings")](/images/blog/2011/09/images/blog/vbfinalsettings.png)
+[![VBFinalSettings](images/vbfinalsettings_thumb.png "VBFinalSettings")](/images/blog/2011/09/images/vbfinalsettings.png)
 
 **UPDATE 2**: I just noted on twitter today this site had a very pointed solution to Virtual Box issues on Win 7 [http://www.kombitz.com/2011/09/16/status-0xc000025-error-when-installing-windows-8-developer-preview-on-virtualbox/](http://www.kombitz.com/2011/09/16/status-0xc000025-error-when-installing-windows-8-developer-preview-on-virtualbox/)
 

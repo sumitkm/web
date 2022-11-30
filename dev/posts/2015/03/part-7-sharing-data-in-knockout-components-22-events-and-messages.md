@@ -75,7 +75,7 @@ First up it simply raises an alert that says hello with the name of the node. We
 
 If we run the application now and click a node, we'll see the popup.
 
-[![image](images/image_thumb.png "image")](/images/blog/2015/03/images/blog/image.png)
+[![image](images/image_thumb.png "image")](/images/blog/2015/03/images/image.png)
 
 So far so good. The node has directly responded to the click event.
 
@@ -121,11 +121,11 @@ Now we add the greeter page component in the docs.html
 
 We are all set, when we run the app initially we come up with this
 
-[![image](images/image_thumb1.png "image")](/images/blog/2015/03/images/blog/image1.png)
+[![image](images/image_thumb1.png "image")](/images/blog/2015/03/images/image1.png)
 
 When we click on **Node 0** the greeting changes to
 
-[![image](images/image_thumb2.png "image")](/images/blog/2015/03/images/blog/image2.png)
+[![image](images/image_thumb2.png "image")](/images/blog/2015/03/images/image2.png)
 
 Also note that the node has collapsed because of the code we wrote to toggle the expanded state.
 

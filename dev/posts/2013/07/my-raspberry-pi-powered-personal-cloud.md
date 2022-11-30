@@ -52,7 +52,7 @@ Only caveat is that now-a-days Wheezy auto-mounts USB drives when X is loaded. S
 
 Now connecting to the share on the Pi is easy from both Windows and Mac. On Windows just use the hostname of the pi on your explorer. e.g.
 
-[![image](images/image_thumb8.png "image")](/images/blog/2013/07/images/blog/image8.png)
+[![image](images/image_thumb8.png "image")](/images/blog/2013/07/images/image8.png)
 
 It will ask for the password first time, enter password, ask it to remember the password and you are done.
 
@@ -84,7 +84,7 @@ I’ve slowly started centralizing all the music I bought and the Pictures I too
 
 I get up to a couple of Mbps when transferring files to the shared drive.
 
-[![image](images/image_thumb9.png "image")](/images/blog/2013/07/images/blog/image9.png)
+[![image](images/image_thumb9.png "image")](/images/blog/2013/07/images/image9.png)
 
 So overall I am happy with this setup. I’ve not tried to connect my XBox to this share, that shouldn’t be a problem either.
 

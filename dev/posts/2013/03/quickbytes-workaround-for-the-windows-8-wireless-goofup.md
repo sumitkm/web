@@ -16,17 +16,17 @@ tags:
 
 My Windows 8 Desktop seems to have trouble staying connected to my Wireless network. I haven’t gotten down to debugging exactly what causes it to go bonkers but a quick peek at the EventViewer shows this cascading failure of services that ultimately takes down the Wireless network service with it.
 
-[![image](images/image_thumb2.png "image")](/images/blog/2013/03/images/blog/image2.png)
+[![image](images/image_thumb2.png "image")](/images/blog/2013/03/images/image2.png)
 
 To recover, reboot always works, but when you have 5 tabs in browser, three instances of Visual Studio and 2 office documents open at the same time, reboot is not a good idea. Solution in 3 easy steps:
 
 Step 1: Hit Windows Key + R, type Services.msc and hit enter
 
-[![image](images/image_thumb3.png "image")](/images/blog/2013/03/images/blog/image3.png)
+[![image](images/image_thumb3.png "image")](/images/blog/2013/03/images/image3.png)
 
 Step 2: Locate the WLan AutoConfig Service in the service Manager
 
-[![image](images/image_thumb5.png "image")](/images/blog/2013/03/images/blog/image5.png)
+[![image](images/image_thumb5.png "image")](/images/blog/2013/03/images/image5.png)
 
 Step 3: Right Click it and start the service. Voila! You should now be able to connect to your wireless again.
 

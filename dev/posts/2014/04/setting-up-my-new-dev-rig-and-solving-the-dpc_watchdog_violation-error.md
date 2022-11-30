@@ -22,7 +22,7 @@ Last month I finally setup my new dev-rig. Yes, I still prefer desktops for deve
 
 Here’s the Amazon (co.uk) Wishlist with all the items - [My Haswell Build](http://www.amazon.co.uk/registry/wishlist/2F4IOAXOUEZYM "My Haswell Build")
 
-[![2014-04-12T21-54-17_0](images/2014-04-12t21-54-17_0_thumb.jpg "2014-04-12T21-54-17_0")](https://sumitmaitra.files.wordpress.com/2014/04/2014-04-12t21-54-17_0.jpg)
+[![2014-04-12T21-54-17_0](images/2014-04-12t21-54-17_0_thumb.jpg "2014-04-12T21-54-17_0")](/images/blog/2014/04/2014-04-12t21-54-17_0.jpg)
 
 ## Putting it together
 
@@ -70,7 +70,7 @@ If you have a Office 365 for Business account, don’t setup Mail or pay very cl
 
 I had high hopes from my Kingston V300, but was surprised to see it’s result compared to my [V200 back in India](http://sumitmaitra.wordpress.com/2013/07/14/adding-ssd-to-my-desktop-ich7-ahci-and-bios-updates/ "Adding ssd to my desktop– ICH7, ahci and bios updates").
 
-[![as-ssd-bench KINGSTON SV300S3 3.22.2014 5-22-56 PM](images/as-ssd-bench-kingston-sv300s3-3-22-2014-5-22-56-pm_thumb.png "as-ssd-bench KINGSTON SV300S3 3.22.2014 5-22-56 PM")](https://sumitmaitra.files.wordpress.com/2014/04/as-ssd-bench-kingston-sv300s3-3-22-2014-5-22-56-pm.png)
+[![as-ssd-bench KINGSTON SV300S3 3.22.2014 5-22-56 PM](images/as-ssd-bench-kingston-sv300s3-3-22-2014-5-22-56-pm_thumb.png "as-ssd-bench KINGSTON SV300S3 3.22.2014 5-22-56 PM")](/images/blog/2014/04/as-ssd-bench-kingston-sv300s3-3-22-2014-5-22-56-pm.png)
 
 As you can see the V300 outpaces the V200 overall but 4K read/write speed is actually lower than the V200. Wonder why! Maybe last six months playing second fiddle in my MBP took it’s toll.
 
