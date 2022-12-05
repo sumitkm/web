@@ -105,8 +105,8 @@ export class web {
                         res.render('sitemap', { posts: posts });
                     });
 
-                    let gitFetcher = new GitFetcher(config.hookconfig); // github web-hook middleware
-                    this.app.use(config.hookconfig.route, new GitListener(config.hookconfig, gitFetcher.handleHookEvent).serverHandler);
+                    // let gitFetcher = new GitFetcher(config.hookconfig); // github web-hook middleware
+                    // this.app.use(config.hookconfig.route, new GitListener(config.hookconfig, gitFetcher.handleHookEvent).serverHandler);
 
                     // catch 404 and forward to error handler
 
