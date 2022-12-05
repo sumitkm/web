@@ -1,4 +1,4 @@
-#! bash
+# bash
 cd dev
 echo "Compiling Server"
 tsc
