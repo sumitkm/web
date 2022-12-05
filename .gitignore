@@ -111,3 +111,4 @@ webconfig.json
 .DS_Store
 /dev/server/**/*.js
 main.js 
+out/

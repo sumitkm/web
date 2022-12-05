@@ -18,7 +18,7 @@ export class Config {
                     this.currentSettings.cert = nconf.get('cert');
                     this.currentSettings.showDrafts = nconf.get('showDrafts')
                     this.currentSettings.showFuture = nconf.get('showFuture')
-                    this.currentSettings.hookconfig = nconf.get('hookconfig');
+                    //this.currentSettings.hookconfig = nconf.get('hookconfig');
                     if (callback != null) {
                         callback(this.currentSettings);
                     }

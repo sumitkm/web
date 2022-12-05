@@ -1,0 +1,24 @@
+if (( $# != 1 )); 
+then
+    >&2 echo "Please provide deploy path e.g. ~/deploy/sumitkm/web. All content of dev folder will be copied into deploy path."
+else
+    echo "Building..."
+    ./build
+
+    echo "Cleaning " $1
+    rm -rf $1
+
+    echo "Deploying..."
+
+    mkdir $1
+    cp dev/*.* $1
+    cp -r dev/node_modules/ $1/node_modules/
+    cp -r dev/www/ $1/www/
+    cp -r dev/views/ $1/views/
+    cp -r dev/posts/ $1/posts/
+
+    cp -r dev/server/ $1/server/
+    rm -rf $1/*.ts
+
+    cp webconfig.json $1
+fi
