@@ -114,7 +114,7 @@ export class web {
 
                     var pkg = require('./package.json');
                     var httpServer = http.createServer(this.app);
-                    httpServer.listen(3002, (): void => {
+                    httpServer.listen(3003, (): void => {
                         console.log(pkg.name, 'listening on port ', httpServer.address().port);
                     });
                 }
