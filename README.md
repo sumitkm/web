@@ -14,3 +14,4 @@ All the posts upto 2021-3-20 are imported from my wordpress site sumitmaitra.wor
 
 ## Sharing is disabled for now
 I need to write a bit of script to enable sharing to Mastodon. So for now I've disabled sharing altogether. You can ofcourse subscribe to the Atom/RSS feed.
+
